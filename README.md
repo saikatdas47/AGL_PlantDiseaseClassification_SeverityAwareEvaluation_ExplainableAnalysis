@@ -193,7 +193,7 @@ Efficiency Findings
 
 
 Repository Structure
-.
+```
 ├── LICENSE
 ├── README.md
 ├── requirements.txt
@@ -217,7 +217,7 @@ Repository Structure
     ├── gradcam.py
     ├── graph.py
     └── split.py
-
+```
 
 
 The repository contains:
