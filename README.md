@@ -231,12 +231,15 @@ The repository contains:
 
 
 1. Clone the repository
+```
 git clone <your-repo-link>
 cd AGL_PlantDiseaseClassification_SeverityAwareEvaluation_ExplainableAnalysis
-
+```
+```
 Contact
 Saikat Das
 Department of Computer Science and Engineering
 Ahsanullah University of Science and Technology
 Dhaka, Bangladesh
 Email: saikatdasmain47@gmail.com
+```
