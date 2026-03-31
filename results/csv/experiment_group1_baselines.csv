@@ -1,0 +1,4 @@
+Model,Accuracy,Precision_macro,Recall_macro,F1_macro,Params,Model_Path
+ResNet50_baseline,0.9962377727614748,0.9950275134701364,0.996701823123744,0.9958445467292154,23595908,/content/drive/MyDrive/CV/plant_results/saved_models/ResNet50_baseline.keras
+EfficientNetB0_baseline,0.9909706546275396,0.9897433328907655,0.991578568446658,0.9906080653065612,4054695,/content/drive/MyDrive/CV/plant_results/saved_models/EfficientNetB0_baseline.keras
+MobileNetV3Small_baseline,0.9706546275395034,0.96663676012143,0.9714383868933162,0.9686911811105172,941428,/content/drive/MyDrive/CV/plant_results/saved_models/MobileNetV3Small_baseline.keras

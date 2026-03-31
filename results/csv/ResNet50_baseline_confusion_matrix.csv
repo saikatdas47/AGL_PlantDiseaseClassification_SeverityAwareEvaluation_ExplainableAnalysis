@@ -1,0 +1,5 @@
+,Bacterial_spot,Tomato_Late_blight,YellowLeaf_Curl_Virus,healthy
+Bacterial_spot,320,0,0,0
+Tomato_Late_blight,0,285,0,2
+YellowLeaf_Curl_Virus,0,1,479,2
+healthy,0,0,0,240

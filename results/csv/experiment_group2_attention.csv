@@ -1,0 +1,4 @@
+Model,Accuracy,Precision_macro,Recall_macro,F1_macro,Params,Model_Path
+EfficientNetB0_CBAM,0.9879608728367192,0.9869218562548469,0.9882739081679124,0.9875472329583947,4465834,/content/drive/MyDrive/CV/plant_results/saved_models/EfficientNetB0_CBAM.keras
+MobileNetV3Small_SE,0.9872084273890144,0.9863631077891688,0.9867947549047956,0.9864571092513764,1025020,/content/drive/MyDrive/CV/plant_results/saved_models/MobileNetV3Small_SE.keras
+MobileNetV3Small_CBAM,0.9804364183596688,0.98078613004975,0.9802748352718782,0.9804618691899056,1025119,/content/drive/MyDrive/CV/plant_results/saved_models/MobileNetV3Small_CBAM.keras

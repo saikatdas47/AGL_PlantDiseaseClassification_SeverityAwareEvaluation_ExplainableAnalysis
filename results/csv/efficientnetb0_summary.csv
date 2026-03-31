@@ -1,0 +1,3 @@
+Model,Accuracy,Precision_macro,Recall_macro,F1_macro,Params,Model_Path
+EfficientNetB0_baseline,0.9909706546275395,0.9897433328907655,0.991578568446658,0.9906080653065613,4054695,/content/drive/MyDrive/CV/plant_results/saved_models/EfficientNetB0_baseline.keras
+EfficientNetB0_CBAM,0.9879608728367193,0.9869218562548467,0.9882739081679124,0.9875472329583947,4465834,/content/drive/MyDrive/CV/plant_results/saved_models/EfficientNetB0_CBAM.keras

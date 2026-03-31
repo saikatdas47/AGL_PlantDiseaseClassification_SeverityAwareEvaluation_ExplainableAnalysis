@@ -1,0 +1,21 @@
+image_path,true_class,true_idx,pred_idx,pred_class,severity,correct
+/content/drive/MyDrive/CV/dataset/test/Tomato_Late_blight/1db51a76-0e89-45c6-8f00-9262c1c7732e___GHLB2ES Leaf 139.JPG,Tomato_Late_blight,1,1,Tomato_Late_blight,mild,1
+/content/drive/MyDrive/CV/dataset/test/Bacterial_spot/68dd8df7-2968-4374-9f9c-18914b1ee352___GCREC_Bact.Sp 3783.JPG,Bacterial_spot,0,0,Bacterial_spot,mild,1
+/content/drive/MyDrive/CV/dataset/test/Bacterial_spot/b2e02801-9306-4703-b1cd-d9247fa17a11___GCREC_Bact.Sp 6296.JPG,Bacterial_spot,0,0,Bacterial_spot,mild,1
+/content/drive/MyDrive/CV/dataset/test/YellowLeaf_Curl_Virus/49e69c3a-1392-4754-b149-79c0f008fe40___UF.GRC_YLCV_Lab 02592.JPG,YellowLeaf_Curl_Virus,2,2,YellowLeaf_Curl_Virus,mild,1
+/content/drive/MyDrive/CV/dataset/test/YellowLeaf_Curl_Virus/8642e4ee-a903-4bfd-a774-f3d42b871dd0___YLCV_GCREC 5384.JPG,YellowLeaf_Curl_Virus,2,2,YellowLeaf_Curl_Virus,mild,1
+/content/drive/MyDrive/CV/dataset/test/YellowLeaf_Curl_Virus/96482ffd-50f6-4f9e-94e7-7646198678fa___YLCV_GCREC 1944.JPG,YellowLeaf_Curl_Virus,2,2,YellowLeaf_Curl_Virus,mild,1
+/content/drive/MyDrive/CV/dataset/test/YellowLeaf_Curl_Virus/7dafbb8c-1edc-4dd1-b593-614b4bcf220d___UF.GRC_YLCV_Lab 02643.JPG,YellowLeaf_Curl_Virus,2,2,YellowLeaf_Curl_Virus,moderate,1
+/content/drive/MyDrive/CV/dataset/test/YellowLeaf_Curl_Virus/6c6c2702-7036-4d75-99a3-7da8df966606___UF.GRC_YLCV_Lab 02390.JPG,YellowLeaf_Curl_Virus,2,2,YellowLeaf_Curl_Virus,moderate,1
+/content/drive/MyDrive/CV/dataset/test/Tomato_Late_blight/bcdc5e5b-406b-4325-a0bd-d6b917ab7c41___RS_Late.B 6875.JPG,Tomato_Late_blight,1,1,Tomato_Late_blight,moderate,1
+/content/drive/MyDrive/CV/dataset/test/Bacterial_spot/18f7004e-226b-42cc-bcaf-db9c47c5da65___UF.GRC_BS_Lab Leaf 9237.JPG,Bacterial_spot,0,1,Tomato_Late_blight,moderate,0
+/content/drive/MyDrive/CV/dataset/test/Bacterial_spot/b788b9e7-1567-47d1-9e34-1c653a8d03a1___UF.GRC_BS_Lab Leaf 0861.JPG,Bacterial_spot,0,0,Bacterial_spot,moderate,1
+/content/drive/MyDrive/CV/dataset/test/YellowLeaf_Curl_Virus/7c74d6cc-d114-4031-a675-2c6bb6ff7b48___UF.GRC_YLCV_Lab 09612.JPG,YellowLeaf_Curl_Virus,2,2,YellowLeaf_Curl_Virus,moderate,1
+/content/drive/MyDrive/CV/dataset/test/YellowLeaf_Curl_Virus/2d5a0c64-0567-4860-9d64-be45f8ede045___YLCV_GCREC 2882.JPG,YellowLeaf_Curl_Virus,2,2,YellowLeaf_Curl_Virus,severe,1
+/content/drive/MyDrive/CV/dataset/test/YellowLeaf_Curl_Virus/3dcbf749-5ad6-4615-9f6b-5ca3623c2bc2___YLCV_NREC 2288.JPG,YellowLeaf_Curl_Virus,2,2,YellowLeaf_Curl_Virus,severe,1
+/content/drive/MyDrive/CV/dataset/test/Tomato_Late_blight/e60c6680-9c50-4063-9eb9-6e77980afcfa___RS_Late.B 5343.JPG,Tomato_Late_blight,1,1,Tomato_Late_blight,severe,1
+/content/drive/MyDrive/CV/dataset/test/YellowLeaf_Curl_Virus/674a0dd1-8429-4339-81cd-cc4e6439e493___YLCV_NREC 2986.JPG,YellowLeaf_Curl_Virus,2,2,YellowLeaf_Curl_Virus,severe,1
+/content/drive/MyDrive/CV/dataset/test/Bacterial_spot/dd6e2b14-f790-452a-b810-a667064a8699___GCREC_Bact.Sp 5632.JPG,Bacterial_spot,0,0,Bacterial_spot,severe,1
+/content/drive/MyDrive/CV/dataset/test/YellowLeaf_Curl_Virus/11f09943-b66d-409f-8aa3-bb4bcd4d93a0___YLCV_NREC 2943.JPG,YellowLeaf_Curl_Virus,2,2,YellowLeaf_Curl_Virus,severe,1
+/content/drive/MyDrive/CV/dataset/test/Bacterial_spot/9ceed44d-e9ae-416f-b5d7-4e96d8a5390f___UF.GRC_BS_Lab Leaf 0590.JPG,Bacterial_spot,0,0,Bacterial_spot,moderate,1
+/content/drive/MyDrive/CV/dataset/test/Tomato_Late_blight/e920998f-6980-4011-90f7-78fdc1c4eaad___RS_Late.B 6118.JPG,Tomato_Late_blight,1,1,Tomato_Late_blight,mild,1

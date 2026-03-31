@@ -1,2 +1,0 @@
-# AGL_PlantDiseaseClassification_SeverityAwareEvaluation_ExplainableAnalysis
-Attention-Guided Lightweight Plant Disease Classification with Severity-Aware Evaluation and Explainable Analysis

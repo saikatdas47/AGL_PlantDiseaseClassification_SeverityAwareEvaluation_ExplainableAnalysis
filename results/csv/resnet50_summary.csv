@@ -1,0 +1,2 @@
+Model,Accuracy,Precision_macro,Recall_macro,F1_macro,Params,Model_Path
+ResNet50_baseline,0.9962377727614747,0.9950275134701365,0.996701823123744,0.9958445467292154,23595908,/content/drive/MyDrive/CV/plant_results/saved_models/ResNet50_baseline.keras

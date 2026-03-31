@@ -1,0 +1,39 @@
+{
+  "Bacterial_spot": {
+    "precision": 0.9875389408099688,
+    "recall": 0.990625,
+    "f1-score": 0.9890795631825273,
+    "support": 320.0
+  },
+  "Tomato_Late_blight": {
+    "precision": 1.0,
+    "recall": 0.9860627177700348,
+    "f1-score": 0.9929824561403509,
+    "support": 287.0
+  },
+  "YellowLeaf_Curl_Virus": {
+    "precision": 0.9958246346555324,
+    "recall": 0.9896265560165975,
+    "f1-score": 0.9927159209157128,
+    "support": 482.0
+  },
+  "healthy": {
+    "precision": 0.975609756097561,
+    "recall": 1.0,
+    "f1-score": 0.9876543209876543,
+    "support": 240.0
+  },
+  "accuracy": 0.9909706546275395,
+  "macro avg": {
+    "precision": 0.9897433328907655,
+    "recall": 0.991578568446658,
+    "f1-score": 0.9906080653065613,
+    "support": 1329.0
+  },
+  "weighted avg": {
+    "precision": 0.9910807196588195,
+    "recall": 0.9909706546275395,
+    "f1-score": 0.9909838495478556,
+    "support": 1329.0
+  }
+}

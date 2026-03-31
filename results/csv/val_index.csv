@@ -1,0 +1,1325 @@
+image_path,class_name,label_idx
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/0045ba29-ed1b-43b4-afde-719cc7adefdb___GCREC_Bact.Sp 6254.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/00728f4d-83a0-49f1-87f8-374646fcda05___GCREC_Bact.Sp 6326.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/0296e043-c805-47e4-bce5-b2326048ac67___GCREC_Bact.Sp 5680.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/02dfe58f-0ad1-4bf6-838a-e145978b1eed___GCREC_Bact.Sp 5841.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/030501db-683b-4ed5-9ec0-c475a5dfdd76___GCREC_Bact.Sp 5650.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/034caf25-29c3-4be2-a725-d2866ce6f548___GCREC_Bact.Sp 3575.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/03c8e0d0-6c57-4207-ad44-4d017c3e7943___GCREC_Bact.Sp 6325.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/0524de69-51ec-4794-a955-04a8e0c5656c___GCREC_Bact.Sp 3695.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/057e3333-e63f-4259-888e-12869cc457c7___GCREC_Bact.Sp 3317.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/07246956-b38c-4d28-acec-85d032ba989e___UF.GRC_BS_Lab Leaf 0278.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/075caa8d-0748-441c-a365-754b43a5b538___GCREC_Bact.Sp 5625.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/0893cbc5-7c6f-4ed2-863a-78f0bdb31ba0___GCREC_Bact.Sp 6174.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/08fd8d64-fdb3-49bb-93d9-6635ced701d4___UF.GRC_BS_Lab Leaf 0272.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/09442ca2-e279-4937-8ba0-faa85901f199___GCREC_Bact.Sp 5643.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/095f2dd4-7e65-44ab-a867-c5d9634ec532___GCREC_Bact.Sp 3801.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/0a64655c-4052-4e5f-a696-2a6cf25d10c9___GCREC_Bact.Sp 6017.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/0ab41c2e-c6fc-4ef1-9ffb-ce1b241d32be___GCREC_Bact.Sp 3426.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/0afe3bbd-b18b-4c70-8fbd-072844e742a2___GCREC_Bact.Sp 3434.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/0b13b997-9957-4029-b2a4-ef4a046eb088___UF.GRC_BS_Lab Leaf 0595.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/0c883752-3334-4615-841d-287d58ecf60d___GCREC_Bact.Sp 6119.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/0cbaca0d-e422-438f-89df-344b493888b8___GCREC_Bact.Sp 5832.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/0d922399-7ba5-4d12-b84e-bb4b966c58ae___GCREC_Bact.Sp 6307.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/0db0e663-b580-45b3-bd20-bc8a7f3d8b34___GCREC_Bact.Sp 6189.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/0fe8eb74-5520-4870-a069-d4f54b99d719___GCREC_Bact.Sp 6330.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/111a63c7-6445-47a4-a0d6-9157fd82b804___UF.GRC_BS_Lab Leaf 0565.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/1347d766-5747-4d71-b05f-0211e79930b4___GCREC_Bact.Sp 6227.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/13bd3ff5-3ecf-4258-9f89-5892ebfa362f___GCREC_Bact.Sp 3080.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/1406a6e5-8aab-44df-997a-6386c01dc086___GCREC_Bact.Sp 5974.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/14f9fe9d-517e-4f70-9a4b-97fff9a26e65___GCREC_Bact.Sp 6295.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/1552a68d-efde-4536-b883-f6da947f5a33___GCREC_Bact.Sp 5583.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/15dde11a-b359-46d2-abbd-c1f56a86a083___GCREC_Bact.Sp 5799.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/172458d3-8e11-4e75-9f39-d7e96e885108___GCREC_Bact.Sp 3071.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/17ee90d7-f733-4026-a83e-c5c87ad88e67___GCREC_Bact.Sp 5623.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/191ae7fa-8ca5-4654-a01d-c4f497bb7377___UF.GRC_BS_Lab Leaf 0615.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/1a017b74-a549-433b-979b-3e3ace67b50d___GCREC_Bact.Sp 5715.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/1a067cc9-cf70-41a5-a51c-aa0f6b8a936d___UF.GRC_BS_Lab Leaf 0327.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/1a50d84b-c015-45ea-a041-500d5adcc339___UF.GRC_BS_Lab Leaf 8773.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/1aeee055-1c5f-4aab-a4af-bfe860f7dc46___GCREC_Bact.Sp 3034.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/1bddab06-9fb8-4727-8ea8-98e02a2fb178___GCREC_Bact.Sp 3237.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/1bfdc27c-5d3b-4b96-a835-86a09fe407de___GCREC_Bact.Sp 6266.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/1c286bba-a5c0-466f-a52d-960d300d135f___GCREC_Bact.Sp 6077.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/21b0722c-abfd-4aab-88cb-646b6e284cbf___UF.GRC_BS_Lab Leaf 8683.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/21d6c511-c51b-4680-a6f7-6781feca8e8e___GCREC_Bact.Sp 3433.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/221605c0-99da-46d8-a503-285d4c6d1e1a___GCREC_Bact.Sp 6366.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/221699b8-60cf-49fb-a5a6-b02e3770008d___GCREC_Bact.Sp 6135.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/225a427b-3e65-45fc-aaa4-1210fb81c20e___GCREC_Bact.Sp 3457.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/2290365c-ec97-46fb-bc6c-51395d458821___GCREC_Bact.Sp 5937.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/2351b015-b737-4ed6-97bd-105e73b02386___GCREC_Bact.Sp 3184.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/23dc9572-9fab-4847-b1dd-9c63e9ee010b___GCREC_Bact.Sp 5811.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/23ee3cb6-dba9-479c-ae1e-ea34028f8066___GCREC_Bact.Sp 5753.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/23f67e39-1b4b-4296-a8a2-2a15890d0529___GCREC_Bact.Sp 3364.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/24300988-d6e0-4e1d-b89b-d5098c074c69___UF.GRC_BS_Lab Leaf 8837.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/247444c2-846f-4626-9c69-762c6f278538___GCREC_Bact.Sp 3452.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/26cabbbf-57e1-42a5-9fdc-e819b4b02d39___GCREC_Bact.Sp 3437.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/27a806fe-06f2-48fb-92cf-32d44d545606___GCREC_Bact.Sp 3052.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/288896d1-7094-4250-9fd6-00589c41b42a___UF.GRC_BS_Lab Leaf 0264.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/2b011bd3-107c-4a83-b961-eb7131d2a76a___UF.GRC_BS_Lab Leaf 0281.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/2b1247ef-594a-4ada-9377-1f46af51859c___GCREC_Bact.Sp 3095.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/2b6acf2e-3476-48a4-baa4-51aa62278537___GCREC_Bact.Sp 2977.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/2cd0bf74-c7ca-4b2f-87e4-1ba003e8b944___GCREC_Bact.Sp 3414.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/2e44b9e9-05f3-4465-9747-b90a5ea44579___UF.GRC_BS_Lab Leaf 0224.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/2effb567-7a19-49c6-b819-e79c9f3a03ab___GCREC_Bact.Sp 3582.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/2f1b0a5b-05ed-41b7-bd44-6f291f7ccc43___GCREC_Bact.Sp 3665.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/308ad744-31f1-44f4-951a-885726b01ba0___GCREC_Bact.Sp 5628.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/30dab838-d0e4-4028-9992-39a30009c167___GCREC_Bact.Sp 5829.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/3156f2fa-aa71-4759-8af0-960188c68519___GCREC_Bact.Sp 3235.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/328b1cc5-6ac5-4689-9979-78bda50f5eec___GCREC_Bact.Sp 2949.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/3392b4ec-48ed-468b-9a33-c3c53ab2dfa4___GCREC_Bact.Sp 3291.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/349e804d-2b74-4d13-8a4f-fc433b0f7d54___GCREC_Bact.Sp 3566.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/3503743b-11b3-47f0-8713-2ad330226745___UF.GRC_BS_Lab Leaf 9129.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/355edec8-e1bd-4f57-afa3-cbf03c2f06b1___GCREC_Bact.Sp 3353.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/357e7fb6-0d3f-44f5-9f13-ae84759da804___UF.GRC_BS_Lab Leaf 0525.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/35c80526-d4ca-4742-9903-6a9463c532e4___GCREC_Bact.Sp 2965.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/37b32099-fdba-4c48-8bef-1904cd580737___GCREC_Bact.Sp 5897.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/3981c964-0d65-4c9e-9b78-5e892b6a961c___GCREC_Bact.Sp 3230.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/3a28881d-eede-4274-b158-c54ebd1c7164___GCREC_Bact.Sp 3136.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/3a6ccb7a-58bf-49b8-bc01-65eb74c210dd___GCREC_Bact.Sp 3051.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/3b41dc98-4539-4b3d-9400-2867156db0fc___GCREC_Bact.Sp 3483.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/3dbc84e0-27f1-421f-8978-82881bf846fd___GCREC_Bact.Sp 3514.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/3dd61e20-fb5a-486e-b579-763312c9cf27___GCREC_Bact.Sp 3116.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/40c4a7ad-c8f9-4a58-986c-7de59a3189a8___GCREC_Bact.Sp 3415.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/4184d645-f365-4e8b-a6f9-f5f80d5198a2___GCREC_Bact.Sp 5963.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/4192f50c-fc75-4581-aac4-30470889bfcf___GCREC_Bact.Sp 3438.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/42deb15b-6443-4d2e-9a45-023052ce4974___GCREC_Bact.Sp 3077.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/43d79893-c9e3-49b1-9dd7-52677d9bd325___GCREC_Bact.Sp 3196.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/4523ca34-56f9-467b-9194-a297cf47e09a___GCREC_Bact.Sp 3854.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/45ffd23d-bd59-4633-881f-fe229f999e88___GCREC_Bact.Sp 3626.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/46520eb0-dbd0-40c7-ba4f-37510a15af9e___GCREC_Bact.Sp 5558.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/46d649c2-01cc-4716-8907-10ca3036c255___UF.GRC_BS_Lab Leaf 8868.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/47d90e2b-bd1b-4b84-94dd-9cdfa31ba15a___GCREC_Bact.Sp 3732.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/4850260f-50f5-4f6a-a0ab-1b5b744bdd13___GCREC_Bact.Sp 3346.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/486fec1f-c2fe-4aab-9e88-46ad54ebdbea___GCREC_Bact.Sp 5995.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/499ed0ff-447b-4f2b-9f9d-d733202b4fcf___GCREC_Bact.Sp 3407.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/49b9840f-d9f1-42cc-92ad-96bbbd8bf9b2___GCREC_Bact.Sp 6379.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/49bfc0c9-1a64-4a1b-8a52-50d0df72e140___GCREC_Bact.Sp 3817.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/4ad4db1b-dbd8-449a-b2a8-4ec4a89b2ba3___GCREC_Bact.Sp 3332.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/4b3d69f0-f4c7-4d86-953f-3d4083cd6270___UF.GRC_BS_Lab Leaf 8619.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/4d0f643a-df33-432c-950f-141b23e21094___GCREC_Bact.Sp 3312.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/4dcc0165-a3c5-4290-8262-16c63b677a7d___GCREC_Bact.Sp 3602.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/4f16591e-eb1f-48d5-8271-b0872e140ac1___GCREC_Bact.Sp 6229.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/4f617600-4d99-4f96-98c6-27a08425dbda___GCREC_Bact.Sp 6251.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/50affc63-4d3e-4eb4-ad9c-4f9b7311e989___GCREC_Bact.Sp 3035.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/513411b7-3388-4d3f-b1d2-6fe67b11a5ec___GCREC_Bact.Sp 5814.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/519d4cf8-cce5-47a8-b33e-39365fb0799f___GCREC_Bact.Sp 3844.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/51cb7cc6-9562-4d43-9b6d-0bf168ea8ddd___GCREC_Bact.Sp 5854.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/53be4d43-f23b-46c5-9904-efe2dbb1e647___GCREC_Bact.Sp 3703.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/54692b7d-86bd-45db-b3c7-30dc1964a137___GCREC_Bact.Sp 6265.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/569caa32-079d-49bd-bb70-212e71f1de31___GCREC_Bact.Sp 5787.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/56a71742-bb4c-4fde-8f21-5ebc5f37514d___GCREC_Bact.Sp 5738.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/57e15172-0ea6-4041-8891-53f47d6e0710___GCREC_Bact.Sp 3690.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/5890bd0c-b364-4ed1-8839-edf671d569ec___GCREC_Bact.Sp 5727.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/589a6ce6-fa0d-4b2a-9f83-59f103aa8afa___GCREC_Bact.Sp 3146.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/58b4de6b-90af-4c5b-a95b-3fdd953c9255___GCREC_Bact.Sp 5830.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/5a43dabd-d732-4fe5-bd01-1d23f4a41d5e___GCREC_Bact.Sp 6389.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/5a6b8e29-8841-4529-bcf5-08a69ffc07ed___GCREC_Bact.Sp 6353.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/5b247678-19af-4134-941e-de7bb39cee22___UF.GRC_BS_Lab Leaf 8800.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/5b2bff7b-208c-4ec6-adfd-b60b081916c1___GCREC_Bact.Sp 5955.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/5c0765db-6fdc-45f1-b714-1f6906856761___GCREC_Bact.Sp 5736.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/5c130080-6cae-4d1e-acd7-629129d66a47___UF.GRC_BS_Lab Leaf 0412.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/5faeaff0-1dcd-4c79-b6ad-22908cc519ac___GCREC_Bact.Sp 5655.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/602448f7-1b22-4675-a26a-3024bf147348___GCREC_Bact.Sp 6155.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/61aff020-4e3f-4ef4-85b4-99489d8b2cb2___GCREC_Bact.Sp 3613.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/62398423-ef8e-4a9f-a1d0-1ebee08faafc___GCREC_Bact.Sp 3521.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/641aa012-41e5-4e85-bac4-1d81bd67be58___GCREC_Bact.Sp 5665.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/65ef97f0-f2d6-4867-b48d-8fa8f760f31d___UF.GRC_BS_Lab Leaf 0502.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/660a5dde-ec09-4a6a-a409-38989f71b8a4___GCREC_Bact.Sp 6300.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/6651bd20-f9ca-4a0b-b49f-943a535e070a___GCREC_Bact.Sp 6152.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/66dfa158-9918-43db-9c9f-5a34d66e86bc___GCREC_Bact.Sp 6005.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/67b11dd7-7d7e-4214-85c4-e7675539251d___GCREC_Bact.Sp 3728.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/67ce694b-bfcc-4e74-8ec7-9404011802e7___GCREC_Bact.Sp 6154.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/6a416698-31f1-4625-8c83-195721e70508___GCREC_Bact.Sp 3339.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/6ab6800f-13bf-4956-858c-f25c1d43fd9a___GCREC_Bact.Sp 3419.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/6b30245b-6c88-4cdb-b170-96bcba1212c4___UF.GRC_BS_Lab Leaf 8765.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/6c300ff6-c94d-4065-8354-73a141b1b3d5___GCREC_Bact.Sp 3382.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/6d1aae86-2d68-47ea-9f7e-caef44898e0d___GCREC_Bact.Sp 3839.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/6d746b6c-52f8-4831-b541-c74d0984c130___GCREC_Bact.Sp 3169.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/6e66897f-e901-41e2-990b-54f8117b792e___GCREC_Bact.Sp 5761.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/6fbea9aa-cc3b-46be-a066-a762cd659113___GCREC_Bact.Sp 6024.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/6fea8e75-6d4e-4cbb-93bf-98ef33b57302___GCREC_Bact.Sp 3508.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/71eeeb09-ce59-4b58-80a4-a01c4348a218___GCREC_Bact.Sp 3305.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/7218c0f5-1083-4b2d-b0da-4c32edb279de___GCREC_Bact.Sp 3286.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/741e2f09-1b62-42c2-b218-6504d57c0f27___GCREC_Bact.Sp 3302.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/74c440d9-d186-41f2-a9c3-9db567a69be9___UF.GRC_BS_Lab Leaf 0325.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/75139eaa-5078-4bee-9020-b507b1d23ef1___GCREC_Bact.Sp 3831.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/762e1022-3ed8-4d96-9f05-e22c0757c8ba___UF.GRC_BS_Lab Leaf 0774.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/7688c6b6-910a-4f6f-854e-e00bf11ce9b0___UF.GRC_BS_Lab Leaf 9045.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/76dd04b9-ddda-4575-954c-dd3d04ce45aa___GCREC_Bact.Sp 5750.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/7712359a-9f55-4d3a-8bb5-c123ebf1957e___GCREC_Bact.Sp 6022.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/7882b2d6-96d2-43db-968c-5790a9dddc18___GCREC_Bact.Sp 6280.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/78981c8c-0a81-45ed-8e6d-5413d7e2f01a___GCREC_Bact.Sp 3554.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/799f1c5e-d749-47d1-a8c9-d11f506ceed9___GCREC_Bact.Sp 5629.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/79c394e7-b18a-4f3a-afbb-6d41bdf55660___GCREC_Bact.Sp 3062.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/7b5a767a-b17f-42a6-a809-233e5b857ff4___GCREC_Bact.Sp 5819.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/7bc2c7e3-01a8-441a-8aaa-b6cc95c4b17e___GCREC_Bact.Sp 3142.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/7bd80f73-7d7e-495e-a9c2-188d649744f7___GCREC_Bact.Sp 3859.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/7cf98788-6726-455c-9b6b-0163e80d4c0d___GCREC_Bact.Sp 3733.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/7d5c4263-84e6-40c1-ac2d-bb9bfae35890___UF.GRC_BS_Lab Leaf 0905.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/7e01f9f5-c290-44a2-a850-82ba038551c9___GCREC_Bact.Sp 3696.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/7e045ecc-bab1-43c8-9b4d-2d7697b20847___GCREC_Bact.Sp 6165.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/7ee48c64-f951-4234-b514-380673bd7648___GCREC_Bact.Sp 6023.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/80f34939-4339-4402-9686-8237034276bc___GCREC_Bact.Sp 5850.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/81349fa9-f5ca-449c-8f10-47788ed939a4___GCREC_Bact.Sp 6153.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/81497af9-6503-4379-9d8e-240f43f89006___UF.GRC_BS_Lab Leaf 0245.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/81581795-ff9e-4e07-9135-e421e03d96e9___GCREC_Bact.Sp 5652.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/822e2ff3-34d5-4634-b82e-2d5cc16c1485___GCREC_Bact.Sp 5990.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/82aa438d-e17c-4756-8464-59d8c49497e9___GCREC_Bact.Sp 3245.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/8359ee8c-ab0e-4aaf-9369-b1a748e4dcf1___GCREC_Bact.Sp 6337.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/83881fef-6772-4dea-9e3e-ec32f3ef5ee1___GCREC_Bact.Sp 5818.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/83e484bc-0e3e-4e57-b5a4-9e8d85f03cfb___GCREC_Bact.Sp 3837.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/8491569f-a7d8-453c-86ae-c2accdc964c9___GCREC_Bact.Sp 5943.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/854d6b99-1659-4a2b-9380-8e93ef488c2e___GCREC_Bact.Sp 2992.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/86501b42-94c0-4f0c-98de-f6a0364a5bf2___GCREC_Bact.Sp 6220.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/887eab5c-9475-46b7-81df-ea2c5190e7fe___GCREC_Bact.Sp 6026.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/8897f549-538f-46d9-a2f7-53eb07e7f89d___UF.GRC_BS_Lab Leaf 8885.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/88a4e8ec-ef71-4847-b778-90eae647f331___UF.GRC_BS_Lab Leaf 0640.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/88fbe274-cf0e-41f5-8b70-e36ec490f043___GCREC_Bact.Sp 6047.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/8a4441e3-8f4f-4f3c-9746-3014cf12337e___GCREC_Bact.Sp 5565.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/8ba984dc-b9f0-4367-8a27-8486ceacf09a___GCREC_Bact.Sp 3225.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/8bd2f1ec-3094-479f-9210-f7fba270922d___GCREC_Bact.Sp 6256.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/8c5c248e-4262-407b-9933-4e08018433ea___GCREC_Bact.Sp 3140.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/8c9604f7-33d8-4212-8c28-43508c7a3c08___GCREC_Bact.Sp 3716.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/8dea4cc9-85a5-412f-b16b-6bd339b9429d___GCREC_Bact.Sp 6069.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/8e7bdca5-a018-4553-9571-2f631eb5de6c___UF.GRC_BS_Lab Leaf 0417.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/8ea20132-2bfb-4beb-bda6-88f1f4bb8936___GCREC_Bact.Sp 3103.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/8eea255c-3cb6-49bf-938c-da2b85dfe40a___UF.GRC_BS_Lab Leaf 0294.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/8f8a9761-5871-48ab-a620-723d0e2312f6___GCREC_Bact.Sp 5596.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/90c73b3d-1467-4c37-81d0-a264e13348a6___GCREC_Bact.Sp 3147.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/90fa8cf2-fc80-4944-9484-7cd6bb6cc1da___GCREC_Bact.Sp 5767.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/931d9484-8912-49c3-bc82-d849927c9a16___GCREC_Bact.Sp 3694.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/93b4e153-ff54-4ad7-871a-0f5e6e1df5cd___GCREC_Bact.Sp 5723.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/9414280e-9042-4dcc-88a5-1dabc5b4016d___GCREC_Bact.Sp 3206.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/942627c0-ec98-4b60-8e2e-520166b51d5e___UF.GRC_BS_Lab Leaf 0492.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/954e415f-a2ae-42ba-ac21-fdd41da95ff2___GCREC_Bact.Sp 5935.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/955d6942-0e13-4221-b349-266e5ae9cc56___GCREC_Bact.Sp 5859.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/97f376a8-3781-4f2f-8fec-6a8150247d1e___GCREC_Bact.Sp 3387.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/984f7f9e-23ff-4a33-979a-5580b3fc5146___GCREC_Bact.Sp 3846.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/9886ea69-5a4e-4fa4-9e41-e9f65884ba9e___GCREC_Bact.Sp 3199.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/98e5ec0a-f392-4c23-8132-815e93c06e07___GCREC_Bact.Sp 3293.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/99187376-a5c2-41a7-9eb5-73cc0b2e5c2d___GCREC_Bact.Sp 3137.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/9981b824-96f2-4fc7-834b-4299efcdfab3___GCREC_Bact.Sp 5865.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/99dd70e6-925c-43df-b82a-66137e9663a4___GCREC_Bact.Sp 5848.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/9a49c63a-b86d-4815-a1d2-0800ec359f9f___UF.GRC_BS_Lab Leaf 0304.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/9de6c73c-49a3-4cd4-bc44-283a96b12328___GCREC_Bact.Sp 3574.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/9e748aef-42d5-429b-b2c6-c95dfa581331___GCREC_Bact.Sp 3363.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/9ec2ee25-8006-49f3-bde0-fb26f37a62f2___GCREC_Bact.Sp 3421.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/a0b883b2-3c90-41f0-a3fa-b47eac1f5812___UF.GRC_BS_Lab Leaf 9013.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/a0be793f-3831-4101-9142-69986edb313e___UF.GRC_BS_Lab Leaf 0801.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/a2458c0c-9032-4843-ac16-e12559e382ea___GCREC_Bact.Sp 5765.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/a346d735-b67a-4838-b6b2-917e896fbd62___GCREC_Bact.Sp 2996.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/a3e27be0-e5c9-48dd-8305-dc2725c52ebd___GCREC_Bact.Sp 3853.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/a3f7725c-9df0-4bd0-9cad-7a209ed4a16d___GCREC_Bact.Sp 3465.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/a4106180-8662-4e07-b7dd-3a80c7fd08dd___GCREC_Bact.Sp 6230.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/a4208fb2-ff57-41f1-bc52-30d69736076c___GCREC_Bact.Sp 3441.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/a469ae7c-95bb-4633-89a6-bb9da9dcb99d___GCREC_Bact.Sp 5635.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/a6bbc7a3-0281-4fcc-b480-0917f3416908___UF.GRC_BS_Lab Leaf 9054.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/a6c99119-aca8-43e0-bb73-5616aa205bbc___GCREC_Bact.Sp 5577.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/a6d6640b-c086-44f5-a53f-8cb59f72a7b4___GCREC_Bact.Sp 5886.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/a75edffc-d484-41ea-adb2-8808748a53db___GCREC_Bact.Sp 5608.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/a7b44387-9845-46b5-b520-5a7420efee98___UF.GRC_BS_Lab Leaf 0763.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/a9113641-1f7b-4f81-8bdb-56efadec1cb3___GCREC_Bact.Sp 6203.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/a996d784-9bee-4715-b1ff-73e9df5b8666___GCREC_Bact.Sp 3257.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/a9d50751-cfaf-4743-93d9-25207fadb580___GCREC_Bact.Sp 3654.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/aabc0838-428f-46d6-b869-fabfc687cb16___GCREC_Bact.Sp 5630.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/abf11f35-e792-4cab-a428-38314c5b9b66___GCREC_Bact.Sp 5757.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/abf9d7f0-be8e-4294-bf19-d60270e3a50d___GCREC_Bact.Sp 5573.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/ac444acf-1d85-4928-9f73-947497fb6b9f___GCREC_Bact.Sp 5762.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/acd63ad6-8420-495d-8a3b-961fc5c98052___GCREC_Bact.Sp 2994.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/ae59ca2a-8b8f-490e-af40-a2a1e1963126___GCREC_Bact.Sp 6116.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/ae92bca1-f5f0-4463-9459-97b61b826838___GCREC_Bact.Sp 3740.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/aec51dd9-6ce4-482c-af62-872f20de45a5___GCREC_Bact.Sp 3773.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/aeda6048-63dc-44ea-b479-b139131c3846___GCREC_Bact.Sp 5604.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/af321f84-057e-4580-a096-5b86b379e0c6___UF.GRC_BS_Lab Leaf 0321.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/af8921c3-e3f5-434f-a391-cde9cb1fa956___GCREC_Bact.Sp 3384.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/b070b4e5-934e-4dc3-baf0-3f9419eecb86___GCREC_Bact.Sp 5648.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/b2045ca9-7594-4ff9-a2ae-4faef86160ba___GCREC_Bact.Sp 5816.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/b3e6f770-c0fc-4bc1-9e81-81a73899b3a9___UF.GRC_BS_Lab Leaf 0212.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/b983bd4f-f889-4487-8650-eccc89140382___GCREC_Bact.Sp 6139.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/be344c1c-8799-4065-bd7a-d94dd7873520___GCREC_Bact.Sp 6214.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/be485aa1-5ab6-45d4-931c-e9d90a7b5488___GCREC_Bact.Sp 3455.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/bf25e8b0-1397-4fe7-ab01-655c01abdcfb___GCREC_Bact.Sp 3261.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/bfd9caac-aa4c-4be2-91be-23f2ee32da9f___GCREC_Bact.Sp 5776.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/c07fc97b-6fd7-4e55-a6e4-698184dbc5b8___GCREC_Bact.Sp 5686.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/c3fbdba4-a285-463b-a3fd-26d0d4a4d936___GCREC_Bact.Sp 3677.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/c46481e2-7875-41e4-95c1-9b75619f2f28___GCREC_Bact.Sp 6356.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/c5211a23-cfcd-4a83-9f1f-9b02d9341fc5___GCREC_Bact.Sp 3578.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/c5dfdd89-196c-464d-9ccb-33e1d500ce11___GCREC_Bact.Sp 5773.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/c6eee071-b1e6-4237-9a0a-8f49e4665dc4___GCREC_Bact.Sp 3185.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/c787ded5-7722-4419-a5d9-8f4404f68ee4___GCREC_Bact.Sp 3800.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/c790128f-5406-4ffa-a545-80e818e1ceaf___GCREC_Bact.Sp 3648.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/c809df76-1ae4-4543-9a2e-ed079ae737df___UF.GRC_BS_Lab Leaf 9231.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/c912cdc9-37c4-4593-a334-4a5d3a02c2e4___GCREC_Bact.Sp 3063.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/c9f48a07-6bc4-4a62-a817-3b99a64160cc___UF.GRC_BS_Lab Leaf 1208.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/ca9d4e23-cd51-4912-b08e-0507546755b1___UF.GRC_BS_Lab Leaf 8802.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/caf5fa98-1dd1-44a8-8ce1-35fff6e06818___GCREC_Bact.Sp 5783.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/cc816dda-efb9-451b-aaa5-0b893c2cdb15___GCREC_Bact.Sp 3354.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/ccafbe60-2783-45b3-a73b-16f93a301cf5___GCREC_Bact.Sp 3395.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/cce9e2aa-2027-474d-9c58-e733ef5bbe17___GCREC_Bact.Sp 6061.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/cd12526b-4a85-4329-95b0-63ed38fe9cc0___GCREC_Bact.Sp 5746.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/cdd9e76e-72f7-4fa7-93ed-d727691f7c80___UF.GRC_BS_Lab Leaf 1072.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/cf08a18e-375d-4f92-ac86-bd0e2f8f8dd2___GCREC_Bact.Sp 5808.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/d0246f26-0f37-4dd0-b6fa-40f03fedaa39___UF.GRC_BS_Lab Leaf 0424.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/d071b160-8fd5-4f26-b464-f61cbc472d75___GCREC_Bact.Sp 3635.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/d0afa6c0-1ed2-4c53-bf88-a15ed11ed800___GCREC_Bact.Sp 3742.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/d1b03545-d17a-4d66-82b9-6c7e73e71906___GCREC_Bact.Sp 6316.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/d36baaa6-29eb-4bc6-8f05-252fdceee6fc___UF.GRC_BS_Lab Leaf 0353.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/d449e255-119a-44cb-844a-f187518e0fc2___GCREC_Bact.Sp 5701.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/d60ef655-b54e-4e58-ab25-64f523a97694___GCREC_Bact.Sp 3336.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/d64951f4-a447-44c7-80b7-1143a6e4a4e8___UF.GRC_BS_Lab Leaf 9190.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/d6f28d37-30ea-4b05-997b-88c5b4c62856___GCREC_Bact.Sp 6297.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/d8218386-5974-4ab6-b453-6d628317d82d___GCREC_Bact.Sp 6232.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/d9a42de4-b5ee-4464-a369-bc7ba9d9ebab___GCREC_Bact.Sp 3328.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/da0ffa44-de62-4314-acb2-59218f5deeb5___GCREC_Bact.Sp 6010.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/db5044bc-64df-4f7c-a591-5b79b9318805___GCREC_Bact.Sp 5546.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/dbbb04ee-e2ea-4c76-bf67-c3a0aa708407___UF.GRC_BS_Lab Leaf 0508.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/dc865b07-0701-4ddd-be52-cc75f80d0ada___UF.GRC_BS_Lab Leaf 0683.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/dddde2e7-7228-47c6-a263-e1c5003471c0___GCREC_Bact.Sp 3512.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/ddfa387b-e1ba-4033-aea8-e6644c19b0fa___GCREC_Bact.Sp 3563.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/de2b6ef8-f5cc-4cf5-bebf-273d12f2626f___GCREC_Bact.Sp 6301.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/de72e298-e788-4452-89a1-1e2dcb3998ad___GCREC_Bact.Sp 3445.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/deafaefa-dc4f-40ab-b26a-f462d334e8b2___GCREC_Bact.Sp 3300.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/dfce64d1-9954-4922-8beb-2681e2e6b896___GCREC_Bact.Sp 2961.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/e1a293e6-03fa-4513-b45b-94fbe2d0b748___GCREC_Bact.Sp 3833.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/e45ae43b-3111-47af-8da4-65dc05595a7f___GCREC_Bact.Sp 5973.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/e4e708ea-e69e-4e5c-9e52-1f21407f7568___GCREC_Bact.Sp 3813.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/e6a975f7-b2f0-4dec-b360-c944abd984da___GCREC_Bact.Sp 3249.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/e6d642b7-1313-4b97-b58b-eab8a92cae64___GCREC_Bact.Sp 5694.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/e85d64bf-a47c-4d80-8eb8-9059c1eec9a9___GCREC_Bact.Sp 5790.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/e87962ec-4dae-4c6c-8233-620e40acf137___GCREC_Bact.Sp 3160.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/e8a89c70-47c0-478f-b4b3-4f4a754f879f___GCREC_Bact.Sp 3807.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/e98d37d3-7029-4de3-bdd9-955904454850___GCREC_Bact.Sp 2993.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/e98fdfc0-1871-4b7d-b32a-35731e973289___GCREC_Bact.Sp 5834.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/eaf64b81-ac2a-4c85-8c15-da1986a12b7a___GCREC_Bact.Sp 3683.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/eb36b979-d626-4f44-b6fe-0d4eec0f3081___UF.GRC_BS_Lab Leaf 0593.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/eb3d387f-a7b3-48a3-a925-41d7fc6e98e9___GCREC_Bact.Sp 3423.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/eb8f68ec-bc5c-4413-8b9d-096ddd2d2a3a___GCREC_Bact.Sp 6382.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/ebbef323-bca1-40de-987a-58d845856735___GCREC_Bact.Sp 5582.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/ecc30297-bfb6-4e9e-8b3e-f29ca20cffa7___UF.GRC_BS_Lab Leaf 8904.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/eea69188-8c51-4d11-9e2d-4aec3e91a078___UF.GRC_BS_Lab Leaf 8912.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/ef71eeaa-1a9c-41f6-8cbe-394a441b3f0c___GCREC_Bact.Sp 3507.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/f0256cb3-6072-453f-9230-2ab16c2db646___GCREC_Bact.Sp 6303.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/f15cec7f-fe4f-4837-a3f0-1ec2bceaa10d___UF.GRC_BS_Lab Leaf 0226.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/f1882d7d-3cd9-44fe-a1ea-a114fc462059___GCREC_Bact.Sp 3862.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/f1cc12b3-3116-4b31-81fc-6383303f84ae___UF.GRC_BS_Lab Leaf 0352.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/f1dcec88-9f21-46c4-b60e-a6fe1a445d55___GCREC_Bact.Sp 3666.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/f1f7f16d-7794-4ac9-9962-32a5320d38fd___GCREC_Bact.Sp 6234.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/f2862b49-bab8-4d3e-abc3-0816c0f0010e___GCREC_Bact.Sp 6311.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/f2be2ee6-efba-4854-89b1-32eb0e7e6974___GCREC_Bact.Sp 5993.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/f2cfc53d-a165-47d5-a9ac-6877e52a97b6___GCREC_Bact.Sp 3804.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/f3590208-3be1-4b32-accd-464e58950119___GCREC_Bact.Sp 3481.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/f3973c52-56d8-49e7-aded-746189374eb8___GCREC_Bact.Sp 3242.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/f4304000-5523-4fc6-93e4-9e570a1d237d___GCREC_Bact.Sp 5689.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/f572deb6-a393-421c-a9bc-90a53193e1a1___GCREC_Bact.Sp 3684.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/f5d9fa8d-af44-4362-9134-190479bbe522___GCREC_Bact.Sp 3610.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/f6084490-18e3-489a-9144-4584db9c1d38___GCREC_Bact.Sp 3049.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/f7b14a90-c29b-49b5-8d7e-ec982b44b268___UF.GRC_BS_Lab Leaf 0994.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/f8c5fd52-52f4-4dca-aed6-171813775027___GCREC_Bact.Sp 3036.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/faabf678-fe6e-48a5-b864-57f83ac33aa2___GCREC_Bact.Sp 3187.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/fb160354-fa8d-4833-8a3a-acd8507dd9de___GCREC_Bact.Sp 3334.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Bacterial_spot/fb636130-5e9f-4a7b-b6f6-590e0808bfe6___UF.GRC_BS_Lab Leaf 0890.JPG,Bacterial_spot,0
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/014eee0c-8000-4762-b4b8-63ecc2fadc13___GHLB2ES Leaf 69.1.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/01cd2d73-c741-45a5-9610-a2cea2266b80___GHLB2 Leaf 121.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/01d9be0b-c5e7-49db-8cdf-46bd0ef2c6e7___RS_Late.B 7066.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/01ebf21e-ef94-4c92-b007-0b26741c2fc8___GHLB2 Leaf 9075.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/021ca736-df21-458a-9010-fab4803f08fe___RS_Late.B 7010.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/02fe963e-7c68-4fd3-9f8f-36bf9e153c20___GHLB2 Leaf 8581.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/039e5d57-64e2-41de-8ccf-e44598bcedb0___RS_Late.B 6883.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/046c65f2-b155-4018-b161-825191c5faaa___RS_Late.B 5042.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/05b90bad-941f-499f-a2f6-a88e54c1da85___GHLB2 Leaf 155.2.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/06412832-90d3-4713-9e82-f2cca52dadc8___GHLB2 Leaf 8734.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/06f654df-cf43-4fd6-b30f-78425136bc35___GHLB2 Leaf 86.2.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/077c04cc-184d-4efd-bbc3-093cd61bedef___RS_Late.B 5560.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/07cca2ca-6b0f-4322-8779-beb94bc219b0___RS_Late.B 6037.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/0862d3c1-82db-4f51-9acf-4908a7733600___GHLB2 Leaf 9005.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/08931b78-a571-41bf-b5b4-6904ffbbe8b7___GHLB Leaf 1.1 Day 12.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/08a94695-4566-49aa-84df-91980c3534a2___RS_Late.B 5396.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/0920260a-69be-47bb-bb71-8a2c2cab149b___GHLB2 Leaf 88.1.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/09590524-981f-4dc5-b6e3-5225a0c48019___GHLB2ES Leaf 140.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/098502fa-e07f-4d89-8279-adf307800887___GHLB2 Leaf 8980.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/09e2fe63-c535-4986-a697-ed275752dc75___GHLB2 Leaf 9030.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/0a3f65fc-ef1c-4aed-b235-46bae4e5c0e7___GHLB2 Leaf 9065.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/0ac3df5b-d713-42ef-b0ad-20b5410237ad___RS_Late.B 4969.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/0b137624-885b-4d9b-b9e6-330c6681de4b___GHLB2 Leaf 8848.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/0c9ff8e1-b610-43e3-b914-5e9576dd8083___GHLB2 Leaf 107.1.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/0fa1b773-fe9f-4440-ab2a-cfbc39c9cd2b___RS_Late.B 6230.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/10019e40-277e-4d69-8dee-8c034a3752a1___GHLB2ES Leaf 62.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/1058d7d2-1b7d-40cc-ab26-95b2da23198b___RS_Late.B 4964.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/1159051e-1278-4b35-929c-e26b963d048f___GHLB_PS Leaf 8.1 Day 16.jpg,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/14f55718-8942-41c1-9f1b-f5062aeb0ad8___GHLB2 Leaf 8905.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/1507883d-7f10-4b69-88d4-db80850b1664___GHLB2 Leaf 154.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/151c010a-021f-459d-a456-63ebaf19b2d5___GHLB2 Leaf 9104.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/1546f916-115c-42dc-90c7-ff8d53c4273f___RS_Late.B 4836.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/15dc06c9-506a-470b-a015-14dcb585389f___GHLB_PS Leaf 15 Day 8.jpg,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/16441ce5-dcfa-411c-8029-cef10b3f6474___GHLB2 Leaf 8687.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/178eb3a0-a4c6-4c2b-8bad-e11d66a76f52___RS_Late.B 4886.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/1ab30bde-88a4-4e29-855e-fa7a6ec1e226___RS_Late.B 5145.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/1ac4f6ea-d2d0-4b94-93f0-788a5e92fe90___GHLB2 Leaf 8707.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/1c8bf271-8455-42f5-8e9f-8a92418116f9___GHLB2 Leaf 9066.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/1def69ef-c2f3-4052-8f02-b397428c7580___GHLB2 Leaf 8627.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/1e0adf6c-906f-4e8f-bfea-cdebf491f3bb___GHLB2 Leaf 8572.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/1f200e50-7cb5-4a83-8ecd-dcf133f1f45e___GHLB2 Leaf 8991.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/1f8743b6-f385-4464-9e41-48bd9fe85637___GHLB2 Leaf 8914.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/2054e9b6-19eb-4066-b384-83e6f6ef2690___GHLB2 Leaf 8565.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/20ab7535-34d8-4bac-b3a7-4fa929a1bed3___GHLB2 Leaf 59.1.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/22a34aab-076c-4e49-a584-9377c07b45aa___RS_Late.B 4866.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/22c36fa3-849f-4918-8790-99a8bda1e527___RS_Late.B 5987.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/24c41335-1ad7-4b68-9756-577ed8cf3525___GHLB2 Leaf 144.1.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/25b8f158-e12f-4f16-b968-f9e891264d28___RS_Late.B 6041.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/25bfd51b-6db7-42a5-9990-992f52a0c836___GHLB2 Leaf 61.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/25fa2bdf-15e3-4330-8e54-1cbf6b714d3d___GHLB2 Leaf 133.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/26480c44-e0f2-4ab7-a6a9-919d532ecfd5___RS_Late.B 5037.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/278c79c0-ebab-4c54-b573-d94a936e63e4___GHLB Leaf 2.3 Day 13.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/2939e3f2-d0c5-462c-b652-8cf4ef87d844___RS_Late.B 6600.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/29eb16c9-e283-46f3-b373-4cfb2cd511d2___GHLB2 Leaf 9055.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/2cf091ac-156c-4e33-a66b-645439d084f3___GHLB2 Leaf 8896.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/2dab6657-8b94-41ea-b610-74895532efe0___RS_Late.B 5567.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/2dc5d67b-cfe6-4337-b966-4a499bfad825___GHLB2 Leaf 8761.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/2f26c159-70bd-4405-b61e-150aaf779c41___RS_Late.B 4919.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/2f5aefb2-4bdc-4a55-81e3-c19a6982b605___RS_Late.B 4856.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/2fd3c2fb-ebd9-48f3-810a-8e365c0db1e2___RS_Late.B 5347.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/317f01bd-bf08-43b2-b269-48a6fa2fd480___RS_Late.B 4854.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/31df9041-c8b0-4ebb-93f7-cdac5338723b___GHLB Leaf 3.1 Day 1.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/32482915-ead6-4e0e-8b3e-a14dd3546b0f___GHLB2 Leaf 8595.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/349b160d-6a6a-4b94-bdd3-81b670d13996___GHLB2 Leaf 72.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/3943d2dd-ffb8-43db-a59d-db7af654aecf___GHLB_PS Leaf 51.1 Day 18.jpg,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/3a7b4305-431f-431b-809f-79ae28306b41___GHLB2 Leaf 8965.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/3c813cf8-6949-4e1f-b812-3530e3ab5c8b___RS_Late.B 4828.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/3de17184-cbec-4397-813e-1bbc3bc5cb6a___RS_Late.B 7050.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/3de67462-9ae4-455d-8d0d-a625c92c7120___RS_Late.B 5148.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/3f36ff41-3817-497b-95c9-7f79819925e7___RS_Late.B 6314.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/3fbc7d2b-b44e-4562-901f-61eed2e4e38c___RS_Late.B 6045.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/40bca58c-a09e-429b-a0b3-03fce3ea88e5___GHLB2 Leaf 9113.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/41e1ea20-a4d0-4ef0-9362-b3756c8c06ec___GHLB2 Leaf 8755.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/427af7ac-5593-4c8e-9a10-44978c009612___RS_Late.B 5452.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/4300d507-2800-47ef-9e34-d9719fad36dd___RS_Late.B 4885.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/435f78a8-70a8-4df9-b227-c6230301a17e___RS_Late.B 6672.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/43eb2436-bdba-4f67-8f51-d92c8f040690___GHLB2ES Leaf 141.1.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/44de5100-871f-495d-b4c6-70ab89059a68___RS_Late.B 7043.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/465d5d19-a90a-412b-b7cd-430a093b02ed___GHLB2 Leaf 8953.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/467da834-4482-4233-90d1-03bc4dc60966___RS_Late.B 5136.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/46b29233-cfd6-47d0-99b5-504a4df17bbf___RS_Late.B 5350.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/46c6a276-b915-46d0-9a28-5655645c2d8b___RS_Late.B 7115.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/47a9ad56-28b2-4aaa-915e-55d04bef03b7___RS_Late.B 5425.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/491a9294-8f46-4563-9787-6b8b68a9c050___RS_Late.B 6591.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/4ae26730-1f0b-4f49-aad5-774f0ed4df35___GHLB2 Leaf 8621.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/4aeaacd8-ff6e-4d01-86d1-0a51c626cc99___GHLB2 Leaf 8943.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/4cae9dde-fd4a-48f0-a66d-c7ed92eee6ea___GHLB2 Leaf 97.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/4cbf0243-7350-4ce5-893a-34f7b13c97ea___RS_Late.B 6810.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/4e9c1dac-62c2-4699-bcda-5bdc3740f267___GHLB2 Leaf 8740.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/4f4ae955-8ed2-4eae-b013-bc26ae5e91b0___GHLB2 Leaf 91.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/52451f9c-825f-4907-8ee6-deeb5899d9b5___RS_Late.B 5449.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/525e419d-7077-44be-87f1-aef32ef27a2e___GHLB2 Leaf 96.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/531d1dc7-d864-4464-b2ad-1fc76f825021___GHLB2 Leaf 8742.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/537465e6-a88a-44d9-aa89-4e3877cee904___RS_Late.B 5433.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/558b263e-f6d3-4f15-9d16-2e100a34b99f___RS_Late.B 5414.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/563dc24f-a75e-4bde-8667-135ba74541e6___RS_Late.B 5319.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/57e8eac3-bf54-463c-a3d7-6ef04ae0a8dc___GHLB2 Leaf 124.3.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/589aa880-2e56-4025-b997-6c495644302a___GHLB Leaf 2.1 Day 6.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/58f61006-7ddb-48f7-86cd-7b2cc7858d0d___RS_Late.B 5110.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/5b95aab7-c5be-42e3-afc8-c99f7c1c2c0c___GHLB2 Leaf 8658.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/5c1531ba-78f7-4d02-b9f8-b227b33e22ac___GHLB2 Leaf 8874.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/5c5142ea-6b6b-4ea5-bd9c-b2da28bfadfa___RS_Late.B 5634.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/5ced2ede-33df-44e7-8063-a27ad667cd1a___RS_Late.B 6721.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/5de6da85-f8c4-48c4-b463-3e6bd78884cc___GHLB_PS Leaf 24 Day 16.jpg,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/5e7a999e-6617-4c94-8c57-c1b0e1a392b9___RS_Late.B 5636.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/5fdf3288-d5f4-4c70-9b12-95222b82d415___RS_Late.B 4942.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/62474b8c-4625-4d73-ab6a-5e1d328a9cd4___GHLB2 Leaf 9038.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/634c3515-80da-4144-8cc8-9b8bb29134ec___RS_Late.B 5481.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/63bd9158-43c2-4b8f-b4ee-a8935f8e3096___GHLB Leaf 1 Day 6.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/65d94a14-e372-4f4f-b955-c2144ebd3166___GHLB_PS Leaf 28 Day 13.jpg,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/66f03c1a-6810-41b2-93cb-ccc1630a18d4___RS_Late.B 4882.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/67a63018-22b8-45c5-8f71-90f7589a6ba5___GHLB2 Leaf 9032.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/688d69ca-59a6-4713-b18a-ce7c04ea001e___GHLB2 Leaf 8754.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/69c6df3c-ce76-4bac-a4be-d3efee364c10___GHLB2 Leaf 8929.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/69fff432-3c80-4202-8e8a-7fed08ec0baa___RS_Late.B 6825.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/6c7243ea-1e4b-4166-ae4c-9f99bb84fe4d___GHLB2 Leaf 128.2.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/6e594cdd-0b3f-41d2-b056-f03819790e8c___RS_Late.B 5348.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/6ed34168-5646-44ae-8279-1d9ae0f4e962___RS_Late.B 6633.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/6f6d2197-8756-4771-ac32-61bd0bc31aa0___GHLB2 Leaf 9074.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/700fdedf-00ca-4fbc-9871-ad67425777db___GHLB2 Leaf 8777.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/7048f52e-7b68-43d2-81d7-a146d5a73407___GHLB2 Leaf 8708.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/71a47848-146e-4cda-ae09-5ff0fe3a0540___GHLB2 Leaf 80.1.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/726a5ae7-e33b-4854-a872-71318ec3a493___RS_Late.B 5538.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/734daa60-b419-4736-ae19-c84fc2043d97___RS_Late.B 6758.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/74219bb8-17cf-4bf5-9289-5a23151a317b___GHLB2 Leaf 8882.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/74e2dac2-ae38-4349-8d26-7e694fdad667___RS_Late.B 5185.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/757868c3-554d-4d29-bec3-fee3d8200c38___GHLB2 Leaf 9080.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/75c6ecf4-8a75-4bc6-bfcb-2331f5c56b38___GHLB_PS Leaf 24.1 Day 13.jpg,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/77cd23c3-22fe-4d04-babe-89db464dbddd___GHLB Leaf 6 Day 6.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/77e0bc13-fdcb-4fff-a3e9-17b5d88224a4___GHLB2 Leaf 59.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/78122366-5c83-4d3f-97b0-b7135181738b___GHLB Leaf 1 Day 1.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/781582d3-8bad-4e20-9073-e1fa1b50abba___RS_Late.B 6269.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/7872b2c5-2b59-4f28-aab0-f9346486c83a___RS_Late.B 5332.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/7ae76b22-7563-4fd9-a859-50b7ad906f64___GHLB2 Leaf 86.1.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/7d9f4bd8-6a41-4c5e-816e-175f88e0be41___RS_Late.B 5488.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/7dac72d7-cd87-4d92-8ee0-e6b52c115558___RS_Late.B 5053.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/7eb30afe-7975-487a-8dd2-bf72634967a8___GHLB2ES Leaf 136.1.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/7ee00267-be66-4b6a-a207-0bf0046d28b6___RS_Late.B 6909.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/7f533ee8-1d72-486e-b2a6-b5ef2ac7cc88___GHLB2 Leaf 8837.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/8080a99f-e35d-4a1f-b26e-e2df8cf79408___RS_Late.B 6183.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/8168a850-1360-49cf-8ecc-77730cc24ac5___RS_Late.B 4979.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/82e462d5-14fb-4530-a8b8-c844d1cc5f43___GHLB2 Leaf 8701.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/835b856f-9f36-474c-b5e9-2961a7fb97c5___RS_Late.B 5187.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/860b6c56-686a-4f21-8ae3-d7e45acd760b___GHLB_PS Leaf 25 Day 16.jpg,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/8ad4d607-b0e5-4151-9455-66e8ece55ff7___GHLB2 Leaf 8774.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/8daa8725-05a2-4802-a524-9eba96fa89bc___RS_Late.B 6488.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/8dbcc7c8-5845-43e4-867f-b9f7da8a53c3___GHLB2 Leaf 8786.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/8dff4125-96c2-44fc-bd3f-734fa57621ba___RS_Late.B 5025.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/8e06d830-df85-4b76-be46-c7814bedcd51___GHLB2 Leaf 8907.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/8edb3824-bc6b-48a6-b659-ae29c9754274___GHLB2 Leaf 103.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/8f27364b-aafa-49a8-b288-e442cb8bde11___RS_Late.B 6285.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/8f6e4229-2e6c-409c-8e9b-e3573a478b8a___RS_Late.B 5044.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/8fa2b785-6eba-47c3-aeb3-139ebe284185___RS_Late.B 4954.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/8fb5837a-daa2-49c9-8e6e-eeca83e1e764___GHLB_PS Leaf 26.1 Day 13.jpg,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/902aed86-4d96-4a9b-9742-f01ae845c22c___GHLB2 Leaf 9037.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/90b4fa52-1f63-466f-ab26-e2b180935c94___RS_Late.B 6323.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/9176c69b-991a-4cd0-bfad-9742ad81a8b4___RS_Late.B 4989.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/91b7baba-9b15-4f24-9db7-86ca95ac884c___GHLB2 Leaf 9087.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/91cb766d-bbfe-405b-8211-8dbfb6888c12___GHLB2 Leaf 8963.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/92508617-1037-4d3f-b2c2-c9f0c15c3263___RS_Late.B 5286.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/92a458d9-e19a-4080-a7fe-ec6c83af7c0c___GHLB2 Leaf 8730.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/92abb825-be04-4ddd-a5d6-68b5c3900ba6___RS_Late.B 7128.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/93ac9f1d-6694-44db-ad77-b9b8470cab1b___GHLB2 Leaf 8796.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/93cfbf22-96aa-4d97-ae92-9117209d23c0___RS_Late.B 6192.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/942e670b-9e1b-4c27-a2d7-287ad07fd986___RS_Late.B 4977.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/956e56f5-7dcf-49be-8283-e560d7368c9a___RS_Late.B 6487.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/9751ae34-d376-465d-9fce-ddb75caf98d2___GHLB2 Leaf 8781.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/97968e5a-b1d0-428c-842a-f77308212339___GHLB_PS Leaf 46.2 Day 18.jpg,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/98a95140-e62b-4234-b435-914d67d0afb1___RS_Late.B 6027.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/993ba935-925c-411c-887f-b06670d884c6___GHLB2 Leaf 100.1.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/994043ad-6d4c-4ab8-b825-45e61317bce8___GHLB2 Leaf 8829.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/9a1a1ad7-f715-40a5-b136-0e0d1618ef60___RS_Late.B 6120.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/9b0836db-9e56-4dc2-ba79-2d02907eaee1___GHLB2 Leaf 9048.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/9bf7479a-5809-48ad-90f7-f4dd4cb9a82b___RS_Late.B 6902.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/9c0d321d-1b14-40df-a9fe-1c6b8e10f13b___GHLB2 Leaf 8770.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/9c726f4e-045b-4080-b53d-d7e66d45bcb1___RS_Late.B 4876.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/9ce46f18-eccc-4dc4-aa01-f41ad7e6e7fb___GHLB2 Leaf 8544.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/9ec534c9-70e3-43de-876e-3bfd87ef324c___RS_Late.B 5163.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/9ec6c8fd-4dfe-4dc6-bc1f-72488053da67___GHLB Leaf 2.4 Day 12.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/a202fc9d-50ed-43eb-9a75-348348549924___GHLB2 Leaf 8736.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/a58b9916-46bd-49c2-b26e-de46080fdeee___GHLB2 Leaf 8879.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/a5a9303d-5e02-4fcb-89be-86c5466d8a04___RS_Late.B 6084.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/a5e71962-bf6d-486d-ab54-14004feb76da___RS_Late.B 6088.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/a5fbcb1e-c1f2-4cc9-b69b-24ce89f7ec7a___RS_Late.B 5585.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/a6007dbc-3a2f-4c1e-9ec6-28d7d3a17f28___GHLB_PS Leaf 13 Day 8.jpg,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/a6b94272-9bb5-495e-bce4-2622d2ea34f5___GHLB Leaf 25.2 Day 12.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/a7f4ecd0-7040-4a9f-830e-7b4572277d2d___GHLB2 Leaf 8937.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/a93e7941-b915-4e05-a3b8-7dd4176e6eaa___GHLB2 Leaf 85.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/aa25e72b-b191-4fa8-99d6-6a8cbefbcaf4___RS_Late.B 6277.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/aa2b76f2-a7e8-443c-81eb-20c00c0fd488___GHLB_PS Leaf 39.1 Day 16.jpg,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/aa358a07-3140-4f44-861b-dcd99f943b09___RS_Late.B 5542.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/adf760b7-e95e-4c27-a829-a1105bc53ed4___RS_Late.B 7004.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/ae581c9f-2be2-4ca8-b27d-5a333d15012c___RS_Late.B 5170.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/afb65a40-7512-4d2c-884e-56e6c5010511___RS_Late.B 5380.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/b0e6fd13-ea0c-4e04-bdd3-70878b71f353___GHLB2 Leaf 106.1.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/b0fbd7bd-f906-489b-96ff-a2683eb76dd3___RS_Late.B 6173.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/b2f89c9a-820c-4a8b-a6dd-bb0adab42757___GHLB_PS Leaf 44.1 Day 18.jpg,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/b3e8d2db-5531-41cc-86ce-d4ac76c5be56___RS_Late.B 7070.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/b47f267d-7a17-4e4e-935e-4e6c0d7fd4f9___RS_Late.B 6146.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/b62c8328-7089-4b43-b77e-20511356d04b___RS_Late.B 5490.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/b657dc7a-df76-40e1-bc87-2d61b81040a8___GHLB Leaf 27.1 Day 12.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/b694de0e-542c-4b7a-b322-30cea130719d___GHLB2 Leaf 8720.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/b7c56bb2-80c1-4ffb-9be5-f8bf669ce6d8___GHLB2 Leaf 9025.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/b8995533-058e-49fb-94ae-30b2d9cff3cc___GHLB2 Leaf 8646.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/b8cf164c-05b8-455f-86de-fe785f40df9f___GHLB2 Leaf 8587.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/b9acddbe-1fc4-44a8-9802-91f0d9f57e22___RS_Late.B 5026.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/b9caae93-beaf-4587-ac29-b6db2f912cc8___RS_Late.B 6068.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/ba09ee7e-4b6c-4f26-a626-7d8ee16e81e0___RS_Late.B 4859.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/bb487e34-b328-40b9-a33f-592701216063___RS_Late.B 5175.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/bbe6db0b-868d-4ca4-b8c7-f274b89dd9c8___GHLB2 Leaf 68.1.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/bd4f09bd-ee85-4ab1-bce0-8cde3fdd7f1b___GHLB_PS Leaf 23.7 Day 13.jpg,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/bd9341f4-34d9-4acb-9aa0-5dbff08f8ba6___GHLB_PS Leaf 23 Day 9.jpg,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/be5c294b-38cc-44b8-b404-ab7d899cb717___GHLB2 Leaf 161.1.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/bea930ce-b822-464c-9c2b-8e181d0ba3f8___RS_Late.B 7127.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/bf89b543-1d30-4648-8b4a-bb8d1f2f913a___GHLB2 Leaf 8606.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/c02d8671-0b42-4fb3-a7c7-5bbb002ca6d3___GHLB2 Leaf 8935.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/c0b62c7a-4b0c-43d6-80d9-d5c6eef43325___RS_Late.B 6114.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/c179ebbe-601b-474c-b9be-8704c6677f4d___RS_Late.B 6957.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/c1b4525c-bbef-4cef-ae46-ed82b0ba2f48___RS_Late.B 6996.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/c1f3a153-7738-4cdc-a8a2-003e7221001a___GHLB2 Leaf 9013.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/c215da6d-139c-40b7-aeae-41138ff98a1c___GHLB2 Leaf 8932.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/c50640d9-3647-4ef0-95c5-31fc5e8b688a___GHLB2 Leaf 8908.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/c5150ba8-d8c4-47a3-9938-83715b767693___RS_Late.B 6912.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/c56dfea3-420f-46cf-b974-cec54b2c6992___GHLB_PS Leaf 2 Day 18.jpg,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/c59952b7-66e1-484d-a2e2-d240e7b12680___GHLB2 Leaf 8553.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/c68a177e-bd9d-4995-a8ab-9ef75bcef2fe___GHLB2 Leaf 8995.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/c873c09b-f3b9-466c-bd1d-dc069eefde79___GHLB2 Leaf 9063.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/c8fca126-5379-4a48-8de1-5fcc8643999b___RS_Late.B 6934.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/cbad7bd4-3406-415b-b82c-bf4f995e8eec___GHLB2 Leaf 115.2.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/cbbf7dc3-4ff9-4864-bd26-54ed77b01e51___RS_Late.B 6628.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/ccbeb4a7-7a15-4246-9ffa-1807e58b3afc___RS_Late.B 4849.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/ccc2f713-80ff-4e68-bb2d-14d6152dfa6d___GHLB2 Leaf 8898.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/cd042eac-79ff-4b4c-a561-b24bc69f9215___RS_Late.B 6486.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/cd3a1b72-2538-4ed0-9b04-6485b4f0ab0c___RS_Late.B 7149.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/cd71e099-6bee-45ab-8de3-08be107939af___RS_Late.B 5040.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/ce02cb11-2c42-48ab-b20a-6412252b7cf1___RS_Late.B 6249.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/ce3f895d-e031-4ed9-ac40-7f6550894bff___GHLB_PS Leaf 52.1 Day 18.jpg,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/cebd5337-bb61-4454-93da-bba4169f0802___GHLB2 Leaf 145.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/cfaaca13-e947-4cc1-aa07-1611b17879a4___GHLB2 Leaf 9118.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/d2619e9f-172d-4c42-8513-0ab522c02824___GHLB Leaf 2.2 Day 16.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/d2c04ad0-6dbc-4f9c-8566-446bcc9b5953___GHLB2 Leaf 8679.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/d346f7f2-7cc9-43ef-bfcf-fbfd9d9db724___GHLB_PS Leaf 18 Day 8.jpg,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/d4af5357-afc6-4a81-8d7c-bf8f947c3c91___RS_Late.B 6908.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/d4f41a97-4705-48e0-9707-2deeb12e4ef6___GHLB Leaf 8 Day 6.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/d4f4500b-9ebe-41fe-84ed-00278dc646b7___GHLB2 Leaf 9017.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/d519ec29-c557-4ef7-b572-a954c6ec4187___GHLB2 Leaf 9007.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/d6ccb948-fdd5-4357-bb6a-c3df838ea465___GHLB_PS Leaf 8.1 Day 8.jpg,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/d7fdf98a-cca7-441b-8014-ddeab2111617___RS_Late.B 6714.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/d81682aa-746b-4e07-af2b-52ebb6f4c017___GHLB2 Leaf 102.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/d86aad3d-070a-4247-a3cb-a66e6b774fd3___RS_Late.B 7114.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/d9459215-359a-48d1-babe-be3b7b11cd9d___GHLB Leaf 2 Day 12.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/d984c49c-ff38-46b9-a176-b966c8c8f9ef___RS_Late.B 4991.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/d989b5d3-715f-4d85-8475-0a2ec3beaa98___RS_Late.B 5022.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/da40dbcb-5ed7-428a-9c64-34c0b6ab7219___GHLB2 Leaf 9009.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/dadc7e0f-8caf-4db0-9a05-f4b724c73bc2___GHLB2 Leaf 8685.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/dbd66146-54e6-4621-870d-24208b99e254___RS_Late.B 7051.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/dbd83a4e-d95f-4ffe-8257-eaaa638b06a7___RS_Late.B 6548.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/dce856b2-1c63-4305-97ab-5ab443f462bf___RS_Late.B 6099.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/dcf0db57-e7d2-487f-b9df-2ec299e0ee48___GHLB_PS Leaf 17.1 Day 8.jpg,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/df84e2a1-7517-4096-b555-67fe2b7a7156___GHLB2 Leaf 9003.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/dfa645f2-9296-4d21-bc31-5f0496b3c31f___GHLB2 Leaf 8814.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/e0cf0b07-8ee9-406e-a7fb-5410ba7c84b7___GHLB2 Leaf 8630.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/e142d2de-6aeb-4d1c-9184-d6e46647ad6a___RS_Late.B 5203.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/e19d885a-349c-4e13-b015-5c17d2895b30___GHLB2 Leaf 94.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/e1fa1e4a-7259-496f-8066-79678f36f3e8___GHLB2 Leaf 8593.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/e20107e7-137f-400e-817f-5dc4c58e5d70___GHLB2 Leaf 8677.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/e2e89956-491c-42a0-9154-6b8ef41cd63b___GHLB2 Leaf 8689.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/e55af4aa-1f1c-4300-86ca-bdcff04bef80___GHLB_PS Leaf 2 Day 9.jpg,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/e686c35e-fcb4-463b-ad2a-2c1da18135bb___GHLB2 Leaf 9023.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/e798b45b-9267-4cc7-a459-808f9944fd49___RS_Late.B 5003.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/e93721af-a478-4021-8d9a-bffdc1ba7c45___RS_Late.B 5050.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/eb6ec9fb-d564-4736-a18c-bd77cddd0c2a___RS_Late.B 5385.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/ed06f115-9ca4-44d7-be94-e514a5ca58ce___GHLB2 Leaf 148.3.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/ed469069-15cf-4996-9f2a-ede8139d1543___RS_Late.B 4914.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/ed70dd6e-db68-4cf5-95b6-e25c67be113f___RS_Late.B 4966.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/eda41abe-61cf-439d-9562-e03fee3cd2ca___GHLB2 Leaf 8802.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/f2443e0e-d34e-4e25-aa5d-9653e2dd36ca___RS_Late.B 6465.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/f33028e4-68df-4312-ba25-94d65f03efcf___RS_Late.B 5530.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/f5261645-e84e-433a-8edb-ff53e8586646___GHLB2 Leaf 143.1.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/f66ada20-cd47-4393-b7c6-87f1f39fd741___GHLB_PS Leaf 41.1 Day 18.jpg,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/f8024ad7-ded1-42aa-ab6d-139f7069d10e___RS_Late.B 7157.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/fc0cec90-4a1e-4cdc-95cf-a34abc1dc8c9___GHLB2 Leaf 117.2.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/fcc13483-8986-4424-87cf-c0afc86576a4___RS_Late.B 5565.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/fce9cc3f-88ab-46d6-a26f-c6ff0e7c56e7___RS_Late.B 6372.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/fee09bd4-a9e3-4174-bd89-4f9b6f911902___GHLB2 Leaf 123.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/Tomato_Late_blight/ff03c1b7-ae44-4b97-b0c8-ec2c6ca7f4e5___GHLB2ES Leaf 63.1.JPG,Tomato_Late_blight,1
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/0068fe04-aa0c-4d92-8af0-f05c9d8db6eb___UF.GRC_YLCV_Lab 01755.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/013864a9-fc42-4357-8bfe-0d638ce2fc7f___YLCV_GCREC 2023.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/018c1311-3ebf-48ce-8e31-f663e1b418a2___UF.GRC_YLCV_Lab 02979.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/018c6768-6da7-4aa8-8285-52290d8bffab___UF.GRC_YLCV_Lab 02344.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/02aabe96-31be-42a5-a825-261d854e15be___YLCV_GCREC 2894.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/02b8b54b-bcb2-4da9-8af3-14ca4c4223d0___YLCV_GCREC 5126.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/02dc4f14-66a1-4db1-8367-96413b7187d5___YLCV_GCREC 2151.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/0320cf63-ce16-4c8d-bef4-7fda66f36741___UF.GRC_YLCV_Lab 02599.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/036ebe7a-a3e5-41cc-9938-1c20a444b6da___UF.GRC_YLCV_Lab 02685.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/038d757b-d3ae-497b-9a96-00a1d60a8a20___UF.GRC_YLCV_Lab 01358.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/03fa456e-aa89-409f-a18c-42566f4b2882___UF.GRC_YLCV_Lab 01528.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/042b346a-35b3-4c4c-986c-658f77a2c82c___UF.GRC_YLCV_Lab 01565.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/055e33e8-dc46-4cf0-a5f9-ce404a5647fd___YLCV_NREC 0150.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/056f00b8-a57e-4bd0-92ad-ace32528bae2___UF.GRC_YLCV_Lab 02521.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/057bc3cc-7742-4aea-a79c-e1f3d5b7e7ee___UF.GRC_YLCV_Lab 02000.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/059cfdda-02f3-4f6a-9ab9-d87638de50b0___YLCV_NREC 2582.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/05fcb411-6673-4c9a-a028-6cf70a8033a6___YLCV_NREC 0197.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/06485576-7a6f-468b-b35d-f4473897fc84___UF.GRC_YLCV_Lab 01485.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/066c8d04-9bad-4e22-bdf8-7cb67a33c617___UF.GRC_YLCV_Lab 09616.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/072c957f-2ed9-4026-a36c-7d95b289e44a___UF.GRC_YLCV_Lab 01348.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/0734ea54-1d91-4a7c-a42c-805ffc3e3245___UF.GRC_YLCV_Lab 02770.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/074c64b5-426e-400b-9895-4f23794880b7___YLCV_NREC 2734.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/077f081a-67f2-48d2-8084-53b912e65f3c___YLCV_GCREC 2935.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/07aadcd9-330a-4600-a4d7-a638498c022d___YLCV_GCREC 2291.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/07c0b302-3b90-48bd-8615-b31b2cf87691___UF.GRC_YLCV_Lab 02927.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/07cd23b4-48dd-4ae0-be4a-dfe529e3779a___YLCV_NREC 2930.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/07d5a888-c3d3-463b-9245-150a8aec1ce1___YLCV_GCREC 5145.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/08166dc1-9f39-4086-bcc9-f0dc0f0e85a6___UF.GRC_YLCV_Lab 02812.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/0823b64f-0025-4995-a7ae-a15297c221bd___UF.GRC_YLCV_Lab 03332.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/086fb13f-cf9e-4a78-bf22-9cc08aa4147b___UF.GRC_YLCV_Lab 03021.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/087a92c4-5479-4cea-85f1-f0c3cc67a5a7___YLCV_GCREC 5399.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/0897310f-384b-40ea-ad5b-5cdb64669281___YLCV_GCREC 1916.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/089806a4-72a6-4a9d-aed1-5ae29f2bfa2e___YLCV_NREC 2193.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/08dd176c-e9d9-4746-92c3-fa8dc9074347___UF.GRC_YLCV_Lab 03057.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/0903aa95-6e8a-4abd-a003-126fcd9a5493___YLCV_GCREC 2806.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/09397385-9a50-4d0a-bc52-bccfd6aa7c59___UF.GRC_YLCV_Lab 01763.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/09454f5d-73ed-4311-a8f5-6baebadb232f___UF.GRC_YLCV_Lab 09387.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/0a0fe942-bb9e-4384-8466-779017d00bcf___UF.GRC_YLCV_Lab 02192.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/0a1d1def-462c-46d3-90e6-2a11fcb45a21___UF.GRC_YLCV_Lab 01675.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/0a5431ac-44ff-4507-a8aa-6eee46235015___UF.GRC_YLCV_Lab 03031.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/0a5f0d25-53a0-47d4-b3fa-984ec3b2a2fb___YLCV_GCREC 5214.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/0a7f1993-85ae-4ba4-865b-df96bb0b52b4___YLCV_NREC 2416.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/0a9ce4eb-961b-4f11-a06f-2946cfd0d562___UF.GRC_YLCV_Lab 02233.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/0aa5f107-5a75-4679-a316-634a840660fe___YLCV_NREC 2657.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/0adad6ca-4983-4c80-b19f-6be9d47400ea___YLCV_GCREC 5341.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/0ae5c8c7-af28-42b4-a312-efd080f76c1a___YLCV_GCREC 5464.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/0ae630bc-8f67-40b7-b264-120ba0d66341___YLCV_GCREC 5115.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/0b29fe6c-b8da-4a5e-b94a-79b0b42fd905___UF.GRC_YLCV_Lab 01813.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/0c5ab0f1-9f4c-47f0-980d-f9b67201ce51___YLCV_NREC 0058.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/0c8d8784-1442-45e6-b7b9-0d9659015bfa___YLCV_NREC 0228.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/0cadd488-b8bd-4396-830d-c5bae89571e4___YLCV_NREC 0083.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/0cdb1a93-1261-43ae-a67d-60352f783a56___YLCV_GCREC 5336.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/0d95d4d3-9623-4c1a-a30d-9128a6d04b81___UF.GRC_YLCV_Lab 09449.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/0db2375d-d754-4e42-b921-43ca8869bdf7___YLCV_NREC 2342.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/0dfe0a59-8266-4ca7-b93b-f25b8c550cb6___YLCV_NREC 0170.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/0e2b6085-96c0-427c-801d-324eaef8b315___UF.GRC_YLCV_Lab 02848.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/0ea9a403-bd63-42e1-9352-902db6c725e2___YLCV_NREC 2735.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/0eafc3f5-7c78-4408-b129-69cf1dee659f___YLCV_NREC 2502.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/0ec33982-87fc-49c4-a61e-5459a2497045___UF.GRC_YLCV_Lab 01749.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/0f4001ae-9a28-4263-9eb1-1028ecbcd312___YLCV_NREC 2322.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/0f61a675-b540-49d3-9ef4-86a73228dcc8___UF.GRC_YLCV_Lab 09337.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/1007b891-4d3c-481a-9142-093905d2d02c___UF.GRC_YLCV_Lab 02743.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/1018b818-a803-4bd9-9551-a85a410b03a1___YLCV_GCREC 5419.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/10293c1b-da1e-4b3a-821e-4f71c54c2733___YLCV_NREC 2751.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/105dcde5-c1d3-4abb-87b0-088d78b02bd7___YLCV_GCREC 2584.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/10f63c22-2aee-4b78-96e3-b265a5c25d41___UF.GRC_YLCV_Lab 02578.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/11061195-ce9c-4171-819d-663342a186e8___YLCV_NREC 0257.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/110c50e6-039e-4f32-bda1-26262968ab8a___YLCV_GCREC 5539.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/111d4096-e9eb-4f32-9a25-f3c19b92c627___YLCV_GCREC 2209.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/11afb190-14bc-4406-b29d-45ccdcc25317___UF.GRC_YLCV_Lab 08553.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/11b71e53-8d68-4b37-8b71-3a83e7961f1e___YLCV_NREC 2645.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/11df3c88-1959-4747-b159-a753b69caee6___UF.GRC_YLCV_Lab 01712.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/1240c7a7-a64a-4659-8849-5451c205208d___UF.GRC_YLCV_Lab 01888.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/124d64c3-37d2-4192-b7ec-998a811b4e1e___UF.GRC_YLCV_Lab 01626.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/1259b01b-cbed-4dd9-a523-bd7d584c49a9___YLCV_NREC 2560.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/12b2b901-0356-4460-ad3c-074bcd2f4ea2___UF.GRC_YLCV_Lab 02858.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/12f21273-711f-492e-9990-6e680931e4e8___YLCV_GCREC 1911.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/139008b7-e1be-4de4-84b1-763758c94f5f___UF.GRC_YLCV_Lab 02561.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/1396357a-c61b-4be6-af3e-f79080f509fd___UF.GRC_YLCV_Lab 03319.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/13f1bdd9-0b9c-4508-b613-8667558166cc___UF.GRC_YLCV_Lab 01403.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/148c1984-3b74-444c-8e1a-6c8167a72a27___UF.GRC_YLCV_Lab 02996.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/14bbb9b7-a9a6-493e-93f1-a56062e754d5___UF.GRC_YLCV_Lab 01392.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/156627fd-9516-4acc-b509-95682e85e340___YLCV_GCREC 2428.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/15c05db3-f640-4e63-a4b7-c2f3e6ce0133___YLCV_NREC 2781.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/15cddf07-9796-455e-9ded-a84655b9828e___UF.GRC_YLCV_Lab 02296.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/15ea913f-a400-4a72-9595-63c2f9c168ce___YLCV_GCREC 2828.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/164f3afb-743c-425f-b263-fa99524b3c6b___UF.GRC_YLCV_Lab 02754.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/16d0561b-45f1-477a-9a2a-d77f3b0c3412___YLCV_NREC 2779.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/16fd1a50-5fbc-42e3-9b6c-46af87dd424c___YLCV_GCREC 2870.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/1799820c-7e9b-4aa9-9bd8-1f30bc03a020___UF.GRC_YLCV_Lab 01522.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/17be2856-5362-4e6e-8d00-db0cbe1b80ce___UF.GRC_YLCV_Lab 01498.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/18024559-aaa4-4421-a0af-3897c1a1af5d___YLCV_NREC 0087.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/18973252-18b9-4302-b89c-2678798a038f___UF.GRC_YLCV_Lab 02668.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/18b0cd56-fade-43b0-8668-c04d62075956___UF.GRC_YLCV_Lab 02211.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/18b403b5-a593-491c-bb06-2e791cf86e1c___UF.GRC_YLCV_Lab 01703.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/193f32a3-11a4-4d39-a88c-a1bc44e61d66___UF.GRC_YLCV_Lab 02863.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/1963f452-92a8-4043-a10b-2ffc24d88201___YLCV_GCREC 5374.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/1a41e1f4-7dc9-4e17-a2b9-bd708abdeb96___UF.GRC_YLCV_Lab 08529.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/1ad9445f-f1aa-43ee-b0b6-e811fb120bcb___UF.GRC_YLCV_Lab 02600.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/1ae01cae-4384-4041-9b1b-806253b3155d___YLCV_NREC 2166.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/1afbcb6f-91b5-444d-a383-2f32223b6bf0___YLCV_GCREC 2184.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/1b02f13d-08c6-4f7b-b0ae-2bc026a92759___YLCV_NREC 2961.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/1b1762b5-7aef-463c-ab99-bcc49246407a___UF.GRC_YLCV_Lab 01470.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/1b2e9df8-8584-4ec3-bdee-a24b054a3529___YLCV_GCREC 2127.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/1b4ded19-b85b-4916-a158-6d8203062996___YLCV_GCREC 2230.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/1b568289-2f14-4019-b028-3f02ffe3752b___YLCV_NREC 2254.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/1b94c436-a664-4e2a-af62-8e4d3761754a___YLCV_GCREC 2343.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/1b951a13-a6af-48f7-8d4c-fbdf2d4d0c7c___UF.GRC_YLCV_Lab 02208.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/1bf681a8-33b3-4c87-849a-ba4247bd6b54___YLCV_NREC 0093.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/1c228970-4090-4dff-8f24-5d923e965e13___YLCV_GCREC 2430.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/1c5303b5-2951-40f6-8e82-bf2ae4d666f2___YLCV_NREC 2013.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/1c915a75-66fa-439a-8772-8c794e2cc19b___YLCV_GCREC 2861.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/1caefc52-d9d0-4493-8f35-4c366a041d93___YLCV_NREC 2803.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/1d235cd7-c782-4e3a-9220-60a1e8eaa833___YLCV_NREC 2880.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/1d389f4a-ac40-4233-8b73-5bbf4428fda2___UF.GRC_YLCV_Lab 01279.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/1d4fd3e9-0b14-4eb4-8034-699cf0c4ca3e___YLCV_NREC 2583.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/1d5035e8-e116-4c36-a259-df87a69bc953___UF.GRC_YLCV_Lab 09586.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/1d5d8433-3df8-4b82-9399-c139eaa3a8e6___YLCV_GCREC 1989.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/1db26dba-d945-4ef1-9c64-dacfa10ce08a___UF.GRC_YLCV_Lab 02960.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/1df0792a-e9eb-4eef-8e59-77ac4ed0a422___UF.GRC_YLCV_Lab 02641.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/1e23b687-67ac-466c-b14e-49f0fe717ac0___UF.GRC_YLCV_Lab 01647.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/1e3d3162-4650-4e88-8f42-b76360c44f9d___YLCV_NREC 2190.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/1e903e25-34b2-4207-94ed-f862a632a88a___YLCV_NREC 2158.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/1ef8673e-9cef-4438-846d-667dd66e418b___UF.GRC_YLCV_Lab 01750.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/1fd65528-6e15-4280-b940-9df51be1aced___UF.GRC_YLCV_Lab 08548.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/20538764-855d-4de0-8150-3a42b9e17d88___UF.GRC_YLCV_Lab 03344.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/20725603-a5bc-47a2-b087-ede929c0bfe6___UF.GRC_YLCV_Lab 01830.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/2099eff3-a946-4ae0-8564-304c95f668e1___UF.GRC_YLCV_Lab 01343.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/2115630a-7a72-4865-a218-3a70142d360c___UF.GRC_YLCV_Lab 08471.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/2171d774-ac55-4859-8c78-2de496fef822___YLCV_NREC 2976.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/219b7a76-6182-4a77-9842-6a5089f37d4b___UF.GRC_YLCV_Lab 01772.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/21bf7981-fe3f-4492-a845-6faae01569c3___UF.GRC_YLCV_Lab 02041.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/226c82e1-110c-4ad1-8c0d-a15d3ea4b39f___UF.GRC_YLCV_Lab 01592.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/22d76850-0e0b-4bf5-a238-1eb800908ec3___UF.GRC_YLCV_Lab 09385.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/23697628-24f9-408a-935e-85b1ccfde9c8___YLCV_NREC 2967.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/236e4e95-a170-4b9e-b599-2d201dea485d___YLCV_GCREC 2739.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/23857b36-24f3-4745-a877-dedde5c5931c___YLCV_NREC 2520.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/240c1031-e5e1-4cbd-a111-7998741042b1___UF.GRC_YLCV_Lab 01859.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/242e3ea8-6971-4e0f-9083-145c60083a32___YLCV_GCREC 2312.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/24342d0b-36bf-45df-8a26-d4d748f52890___UF.GRC_YLCV_Lab 01940.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/245900e5-8d92-48ee-b01d-5e5f62f95cca___UF.GRC_YLCV_Lab 02236.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/247bac90-bceb-449e-b30f-3d23b435395c___UF.GRC_YLCV_Lab 01326.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/2567dfac-4dbf-4ad8-a538-e239f15cefb0___YLCV_NREC 2337.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/258a3644-5db6-44b9-8408-0c67999b6588___UF.GRC_YLCV_Lab 02354.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/25dabdac-3c5c-4c0b-93cd-908b561e1adc___YLCV_GCREC 2547.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/2641a88e-9e38-4270-95a4-69ca75d2e9bb___UF.GRC_YLCV_Lab 02773.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/26d30da3-8034-4676-9600-04bd349075cd___YLCV_GCREC 2053.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/27772570-6dbb-40ae-b8a3-3234246b3aae___YLCV_GCREC 5167.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/2796069c-4173-4395-ae06-0f2de4f3bc6f___YLCV_NREC 2532.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/284e6e5a-2c1e-427b-b64f-15ab514d60d3___YLCV_NREC 2397.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/286116e9-d8d7-4b2d-b0c8-1323638d25be___UF.GRC_YLCV_Lab 08588.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/287e2bdd-3f51-4894-8f78-512d3ec10608___UF.GRC_YLCV_Lab 01961.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/289149ff-3482-4aad-a4d8-9da766a02650___YLCV_GCREC 2693.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/28c54a50-7744-4549-8eae-64a435aa1775___YLCV_NREC 2892.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/29a8fc20-40ba-41d1-a93c-376e90614a50___YLCV_GCREC 5277.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/29e86f03-8bc8-4967-8bac-f39fe8cbba96___YLCV_NREC 0213.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/2aadd640-7d4c-41da-91e9-cab1045964a4___YLCV_GCREC 2294.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/2afe2153-28f1-4704-8da0-123c0618f55d___YLCV_GCREC 2656.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/2b83a638-e1d2-4fca-ad2b-7b16e970fe06___UF.GRC_YLCV_Lab 01438.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/2be29ff8-c858-43f6-92c3-b097bca0a289___YLCV_NREC 2144.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/2c8b2d0d-2948-463d-ad63-e0805e1e2c9d___YLCV_GCREC 5443.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/2ce17a45-ec48-489b-95ee-a84fe6cac8b6___YLCV_NREC 0262.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/2ce6e1ab-1743-44f9-b3c2-d70304eb9366___YLCV_GCREC 5255.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/2cf5bbdf-e70c-434e-8f3b-e7f6dd43ff31___UF.GRC_YLCV_Lab 02664.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/2d153f37-e9ff-4f1b-a1f1-cca1cb109440___YLCV_NREC 2065.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/2dee9f3e-c845-4d6c-a9d3-2def0b69f7af___UF.GRC_YLCV_Lab 02338.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/2f066eba-b6f8-4180-86c5-ce92fb96dda3___UF.GRC_YLCV_Lab 08586.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/2f2c0384-0669-4294-bba1-553040bb0554___UF.GRC_YLCV_Lab 01826.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/2ff17453-2560-4ec3-bedb-0bee2f46ce8f___UF.GRC_YLCV_Lab 01286.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/300013e5-2a4b-412a-896a-45a1d0d4eece___YLCV_NREC 0061.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/3179068e-5ce6-4aee-b6b9-adf4297ffe8d___YLCV_NREC 2241.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/31c6a139-249e-4bbf-8c1e-7e5ffa7cfee9___YLCV_NREC 2511.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/31cc91c9-9f88-4d3f-8224-dc930956d97b___YLCV_GCREC 2521.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/32f9f2be-e4f1-4890-8cc4-23a7ae007b99___UF.GRC_YLCV_Lab 02898.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/33408001-e14f-41c8-9757-e085698d7467___UF.GRC_YLCV_Lab 03165.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/335a81a8-18da-4df1-aae5-9ad81e302e03___UF.GRC_YLCV_Lab 02376.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/33a262b8-586a-4306-8146-1506532e7d92___YLCV_GCREC 2867.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/33a87165-b88b-4396-a327-4c5e1fa8022f___YLCV_GCREC 5200.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/33e4b464-c819-4c91-bfbd-62534a2557df___UF.GRC_YLCV_Lab 02177.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/34865fe5-ab20-4ad6-a991-ef2e587adb73___UF.GRC_YLCV_Lab 02586.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/3546af00-4ea6-49c0-b00d-f96cff4f8fea___UF.GRC_YLCV_Lab 02361.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/35b75e70-ebe2-4e1c-a1fe-f6171da56aff___YLCV_NREC 0086.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/35f15b6d-a287-4e3c-ace7-428c80d94d68___YLCV_NREC 0263.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/360025d6-95c9-4c88-b6a0-dee5f3a215f9___UF.GRC_YLCV_Lab 08546.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/36543f6a-1f3a-4371-8b0b-f60995a966a4___UF.GRC_YLCV_Lab 01266.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/369091e5-7d21-4922-81c4-f26df636a401___YLCV_NREC 2503.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/36f8c86d-3638-48f7-a658-89ee00f977a6___YLCV_GCREC 5268.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/3705bdc5-9b52-4899-8509-b6c23ff34d96___YLCV_NREC 2129.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/37fb9e1a-26cf-4611-aa2d-0f4eb8de0d98___YLCV_NREC 2942.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/3811b959-8884-4cf7-9a75-ed5b36c966f7___YLCV_GCREC 2718.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/388ce53d-1879-466f-82cd-89a8251ff1b6___UF.GRC_YLCV_Lab 09329.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/389e8805-adfb-4426-98c3-e693752b3050___UF.GRC_YLCV_Lab 03301.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/38fc54bf-5385-49b3-9b44-cb79ad90949f___YLCV_GCREC 2464.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/39084a62-b048-481f-aa85-59bf129fa862___YLCV_NREC 2281.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/391fc912-874a-4ccd-a397-e64333fba679___UF.GRC_YLCV_Lab 01509.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/3943bfd9-6db3-4f82-b298-0f807f2c6e69___YLCV_GCREC 5250.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/39543d85-1d1d-46a7-8f5e-558dab77f7f6___UF.GRC_YLCV_Lab 01450.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/39741755-2162-4921-9345-3581ed30345b___UF.GRC_YLCV_Lab 02563.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/39e1f92a-7553-4c57-958b-24e1b16f93d7___YLCV_GCREC 2745.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/3a0aae44-b088-456b-bec2-0b223e570470___YLCV_NREC 2294.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/3a389749-e245-4308-a1c6-a4d872e2833c___UF.GRC_YLCV_Lab 02871.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/3a5a7bd1-55df-4afd-a9d5-0e93fd42be27___UF.GRC_YLCV_Lab 01324.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/3a81d1b3-8d67-4806-90e5-04b7c0294c61___UF.GRC_YLCV_Lab 01893.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/3ad489b2-272b-4c12-b2fd-4b0a74bdf0d5___UF.GRC_YLCV_Lab 02850.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/3af722a4-7905-4730-a6e0-ef81ac334b55___YLCV_NREC 0135.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/3b0bebf6-c491-45d6-84f6-493d1a4ed36d___UF.GRC_YLCV_Lab 03282.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/3b3f6916-cee0-414f-bd63-b005c8a9d4f5___YLCV_NREC 2870.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/3b865826-62da-496c-bb9b-5f9c88a0c2d8___UF.GRC_YLCV_Lab 08501.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/3b8ddcb8-6050-47b9-a820-883c706eeeb4___YLCV_NREC 2570.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/3c38f310-2589-4061-97a4-59093268911b___YLCV_GCREC 2318.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/3c5475c0-bfa1-4858-adf1-3ec5930c3d85___YLCV_GCREC 5129.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/3c9052df-503d-4eb7-b0a7-db7c1fb010cd___YLCV_NREC 2338.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/3d6a1a02-ca2e-41d9-96b2-668293efc55d___YLCV_GCREC 2582.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/3d91e43d-fe47-490a-b89f-acf52e0161a4___YLCV_GCREC 2944.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/3e6d6e3a-827f-47ae-aa3c-67ff4533da21___UF.GRC_YLCV_Lab 02224.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/3e70a27a-b642-4936-84bf-aace2944a76f___UF.GRC_YLCV_Lab 01368.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/3ec5af5c-981d-4f81-82d4-bb91c0cb07ac___YLCV_GCREC 5121.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/3f078443-1d3f-4aac-beb0-b80636ad74da___UF.GRC_YLCV_Lab 02862.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/3f2fd843-100d-4293-b675-cadc7ea8e67a___UF.GRC_YLCV_Lab 08478.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/3f3ef404-2b53-4f9e-b2dc-ad069da7e2e7___UF.GRC_YLCV_Lab 02941.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/3f798251-1d4b-4d93-968f-18243a9df007___YLCV_GCREC 5257.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/3f8efb09-fe91-4a0f-b62f-fc8f626d7b49___UF.GRC_YLCV_Lab 01941.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/4055acd0-d1da-429c-a9f1-89cd9f897d9a___UF.GRC_YLCV_Lab 03087.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/40726129-3f95-4a8d-b0c6-865c12889fd9___UF.GRC_YLCV_Lab 01586.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/4092188d-cf1d-40c8-90e9-2d9bd6845a14___UF.GRC_YLCV_Lab 09563.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/40b97f36-cda1-43a2-a69a-313410bcbbd5___YLCV_NREC 0124.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/40e16b2c-d41e-40f6-99fc-ee38a26e1efa___UF.GRC_YLCV_Lab 01662.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/412ee7f5-29de-4e75-85ee-2270610026d5___YLCV_GCREC 2278.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/4160f824-4741-40ff-ab59-bfa932e9fc6f___YLCV_GCREC 2280.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/41fff472-35b9-4c49-8994-a647086ae947___YLCV_NREC 2142.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/42017ba2-224f-4958-afb0-9d5315d7ba36___UF.GRC_YLCV_Lab 02532.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/422d4da4-59d4-4aa7-a7ca-129bf5542374___YLCV_GCREC 5263.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/424199b7-4214-421e-bc6b-7757789e24a7___YLCV_GCREC 5291.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/424ae9d6-afa6-4945-9ac4-c66036c519d9___YLCV_NREC 2954.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/42862484-6670-48fc-9d8e-ae2bca45a739___UF.GRC_YLCV_Lab 02005.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/43073190-da42-4b59-b7d3-3533afa45848___YLCV_GCREC 2429.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/4310c1f8-77d2-42c4-99c3-4d24ebad9be8___UF.GRC_YLCV_Lab 02483.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/43808947-056d-4e25-bc10-d689032ffb4f___UF.GRC_YLCV_Lab 02529.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/43b2be62-cb86-46f4-9049-92e77d4f335b___YLCV_NREC 0074.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/4501c229-ae5f-465e-b042-50825a7e640c___UF.GRC_YLCV_Lab 08507.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/450f4e21-c1c0-48a2-aa7c-dd8109d652ba___YLCV_GCREC 2514.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/4512698b-9655-41dc-a398-3e133aea517e___UF.GRC_YLCV_Lab 01576.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/45905c3d-0614-4ae5-ae8e-7d0f3589bea6___YLCV_GCREC 2199.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/45c45c8b-6648-450c-aa7d-14a9538b4259___UF.GRC_YLCV_Lab 01601.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/46357663-05f0-4b12-a791-77ebc75964ea___UF.GRC_YLCV_Lab 03317.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/467d740a-d248-4900-8fc1-76beeec148dc___YLCV_GCREC 2765.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/4715e491-eeaa-4a1b-9b1e-9aced19b53db___YLCV_GCREC 2324.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/47b48180-43b8-42ea-bdc2-1fede43b8076___UF.GRC_YLCV_Lab 02790.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/482bfef7-b617-448a-abb4-8ce86c1b92d1___UF.GRC_YLCV_Lab 01265.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/483fca3c-0413-4136-a2ff-931bc789c830___YLCV_GCREC 5298.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/48cd6d61-c283-4cd9-a9e7-1c74aa0d21bc___YLCV_NREC 2873.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/4964285f-778f-4da8-a17e-e4fd82392185___YLCV_NREC 2098.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/4a14c563-0f0b-4c0c-9dff-66972521995a___UF.GRC_YLCV_Lab 02911.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/4ad01f87-c626-49e6-b683-188155a87116___UF.GRC_YLCV_Lab 02238.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/4adc46cc-60dd-48a7-8d4c-f6394577a14a___UF.GRC_YLCV_Lab 01543.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/4ba45d12-ae1a-4575-880a-b36ee69ec8e9___UF.GRC_YLCV_Lab 03382.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/4bb0387f-0f0c-4a13-87c9-d851ad22c8d7___UF.GRC_YLCV_Lab 01790.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/4bc43590-d621-42f1-af1f-dcd3038feb68___UF.GRC_YLCV_Lab 02799.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/4c7a109a-f8ff-4fda-8a24-a57a593e19ef___UF.GRC_YLCV_Lab 02946.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/4ca89f89-3e75-42fc-9f56-52b7f963749d___YLCV_NREC 0138.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/4d2e9102-e3ab-430d-9e26-6bcabe2b2760___YLCV_GCREC 2664.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/4df1da53-513d-407c-8efe-8c176e1e6a38___UF.GRC_YLCV_Lab 02318.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/4ebe0762-d421-4a65-ae3b-2ecfe863a88a___YLCV_NREC 2429.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/4f92269c-6182-44f7-9352-b318bcd917bd___YLCV_GCREC 2179.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/4faa9c69-d025-4806-9329-d09486182412___YLCV_NREC 0123.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/4fab9a36-3bef-470a-8322-d207646128e2___UF.GRC_YLCV_Lab 03082.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/4fdd9d40-d154-40a7-9b0c-80debacb04b7___UF.GRC_YLCV_Lab 09609.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/4ffd2596-dce0-42de-90f0-3a383d238975___UF.GRC_YLCV_Lab 02708.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/50b14d18-7b61-4acb-9882-5295df8fb34e___YLCV_NREC 2135.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/511f02b1-59f8-4730-917f-7a520b0f0729___YLCV_GCREC 2244.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/511fbbec-2a27-47a9-a10c-cd002aba6b35___YLCV_GCREC 5220.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/514c4d20-c1a2-49bd-9ebe-3e76e9f4aa2c___YLCV_GCREC 5215.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/51d5bb0f-8603-4e31-8cfa-20f8c5cf0b45___UF.GRC_YLCV_Lab 08457.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/51edad5a-f236-4cf5-b66e-230007286201___YLCV_NREC 2510.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/520d701a-6107-456b-a940-0b20c9aed7ba___UF.GRC_YLCV_Lab 02525.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/52c3e3e7-3ad8-41ba-a90e-765f54b624f2___YLCV_GCREC 2292.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/52f1ffbd-5244-4102-aaea-5e1f176f358d___UF.GRC_YLCV_Lab 03306.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/53578c92-d46e-4d7d-950e-66ad61da023a___UF.GRC_YLCV_Lab 01618.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/536e6625-3142-40df-a1cf-dd29a0f501db___YLCV_NREC 0202.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/53881cde-cbe3-4d32-87f6-9980cd247508___UF.GRC_YLCV_Lab 02531.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/55379c2c-3db8-4083-92de-c5dfc44f2a28___UF.GRC_YLCV_Lab 02389.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/55d128be-cc38-4493-ac46-16b931b41664___UF.GRC_YLCV_Lab 02542.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/55e6db49-3ee0-48b5-b160-972044667ccc___YLCV_GCREC 2819.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/56421a33-a42d-4c4f-8f68-03f458deb53f___YLCV_NREC 2072.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/568fc2f7-f725-46c6-803a-8b92ef6613dc___YLCV_GCREC 2403.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/56ef3a37-548f-41f4-af50-aba9a3042700___UF.GRC_YLCV_Lab 01415.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/5771f2cb-d87f-4c25-bbf5-cbb17782aa4e___UF.GRC_YLCV_Lab 03015.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/57b2a2ca-be23-4974-bfec-b0778ac01bb9___YLCV_GCREC 2358.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/57cf2231-4196-4a4e-9eef-bb8375c8c720___UF.GRC_YLCV_Lab 03173.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/580d41da-dea3-4249-bb02-ad990ec3cdc5___YLCV_NREC 2801.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/58290b84-0581-49a5-ad0a-fa8fbcddcd62___UF.GRC_YLCV_Lab 01269.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/585b37a5-2cff-4d19-bfff-d217af02bc10___YLCV_GCREC 2439.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/58a5fcdf-b53d-4f8d-ab17-a163e11fda15___YLCV_NREC 0167.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/58b85e6d-6149-453b-839b-731577d40df9___YLCV_GCREC 2225.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/58fdcd9d-1c01-4689-88a3-e307ef358f34___YLCV_GCREC 2852.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/59c50dfd-66a1-45e5-b836-a01de0ecd1de___YLCV_GCREC 2144.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/5a0a1e8e-5d20-462f-95e2-69756e4f21c3___UF.GRC_YLCV_Lab 03261.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/5b42e630-6c2d-4991-bbd6-643c9c465e71___UF.GRC_YLCV_Lab 02382.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/5b9ca962-211c-4f4a-815b-2d31577a79e2___YLCV_GCREC 5426.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/5bb9c742-f8d7-4a28-8bb7-94895e9aa5e7___YLCV_NREC 2427.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/5c08dcbd-1f2d-406e-97a9-1ef72a62cb59___UF.GRC_YLCV_Lab 01976.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/5c516463-b659-4ea8-ad79-d74b43b8ef5b___YLCV_NREC 2978.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/5c693750-bc18-436c-9ad1-a93ae39352aa___UF.GRC_YLCV_Lab 02388.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/5cc16f74-0be9-4661-9f7a-c9ea665d2f8f___UF.GRC_YLCV_Lab 02173.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/5cca9ef3-355a-49a5-a472-61fc9f4a2685___UF.GRC_YLCV_Lab 03229.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/5dbda414-7d7d-4b94-82dc-b7626ee6b26d___UF.GRC_YLCV_Lab 01905.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/5dbf5b6b-fd4a-4731-bb30-05b8841cddd3___UF.GRC_YLCV_Lab 02495.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/5f23b8ec-fc26-43f2-8419-abe4ce5b1513___YLCV_GCREC 2339.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/5f40e824-ea8d-4776-bf4c-990c4dde9202___UF.GRC_YLCV_Lab 03183.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/5fbeb2d7-857c-4983-9f70-925451dc3a57___UF.GRC_YLCV_Lab 08443.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/60834ba9-1f68-480f-95ae-5cc104065948___UF.GRC_YLCV_Lab 08568.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/60e47250-be41-4c81-b910-6e1696282e91___YLCV_NREC 2123.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/60fb77ed-7d2f-481c-99ef-0c32febda7a9___UF.GRC_YLCV_Lab 09524.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/616ab037-f8ad-4a57-be0e-89c4f97f449c___UF.GRC_YLCV_Lab 02588.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/61714072-679d-4c31-8b0b-65b3d1ceab0a___YLCV_GCREC 2481.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/61acaad1-5224-4460-8aa3-8f6f6680748e___UF.GRC_YLCV_Lab 03289.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/6262e790-cfd9-4e45-bbbc-77db5c2064e7___YLCV_NREC 2328.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/628a1db2-79a4-43c4-a51a-3dba32d1af01___UF.GRC_YLCV_Lab 09358.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/635bf723-5f34-42ab-a9ad-d523b31f9812___YLCV_GCREC 2826.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/637a2753-5ae0-421c-aa78-e864fbde29fb___UF.GRC_YLCV_Lab 02014.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/63c10d45-15d0-4c2d-8d87-47c4aaf0af8a___YLCV_NREC 0314.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/63f709d8-9221-44ef-b069-a930681078a0___YLCV_NREC 0227.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/64031d02-1e3e-4f59-a5d6-108050ebe306___UF.GRC_YLCV_Lab 01568.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/641037eb-ab10-44eb-9ddb-7d3d8e363008___YLCV_NREC 2191.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/64598994-2818-4d04-93b8-351980d5a7c5___YLCV_GCREC 2458.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/6460b53e-5314-47ec-83ca-7dbd4fa50290___UF.GRC_YLCV_Lab 03276.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/64618101-9581-4958-9760-6cfd10959fbf___UF.GRC_YLCV_Lab 02950.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/64889fde-cdf2-47c8-996b-87d8ada6525a___YLCV_GCREC 5180.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/64c3c3cc-dfb4-47aa-9abe-3889acbc90cc___YLCV_NREC 2809.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/64d7b489-53db-4d40-87cc-259ace414dec___YLCV_GCREC 2916.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/654f98a0-2f76-4497-9309-bb34ff9e50e0___UF.GRC_YLCV_Lab 01611.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/65f6e3f3-61c6-4faa-8598-d7b908f69fb8___UF.GRC_YLCV_Lab 09514.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/6661492a-225c-45ea-88d5-1b8ee9c3f34c___YLCV_GCREC 2922.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/6805d9f7-8318-47cd-97cf-cd050e0e8db9___UF.GRC_YLCV_Lab 02504.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/68bad154-c592-4710-a953-9d2abb0da397___YLCV_NREC 2680.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/68f8c73f-8682-424b-bb43-9d505c64423f___UF.GRC_YLCV_Lab 08438.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/6936ec65-bb87-4e0c-aec1-f446297cc41f___YLCV_NREC 2856.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/695d436f-c1af-46d9-860e-aec59448a4f5___YLCV_GCREC 5455.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/6978a503-bdb6-4faa-a884-98ca3c886957___YLCV_NREC 2662.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/699befee-1ab5-45a2-a541-e6865230b524___UF.GRC_YLCV_Lab 02252.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/69ff2614-f5a7-484c-973e-437a9eb3b2fc___UF.GRC_YLCV_Lab 01365.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/6a477475-7b28-4f6f-89ae-2bdfc7b06bc3___UF.GRC_YLCV_Lab 09330.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/6a549642-be42-43e7-920d-138d2f6d61b8___UF.GRC_YLCV_Lab 01325.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/6ba203ab-054e-4297-948d-6b37f16cda73___YLCV_NREC 2103.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/6bda3c80-915c-4dcc-ae83-2829b6edb41b___UF.GRC_YLCV_Lab 02313.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/6c4cb190-f0e4-4e02-a7cc-c42ecab50e56___YLCV_NREC 2948.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/6c6fcd54-9d2b-49f5-9337-1f0d86e60fd1___UF.GRC_YLCV_Lab 03399.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/6cb38ea9-205b-41bf-9d3e-c06cd8cf0a0d___YLCV_GCREC 2886.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/6ce6c54d-70df-49a9-930b-fd3a42490c51___UF.GRC_YLCV_Lab 02489.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/6d57c47e-8499-4b89-85a1-81e1b99c187d___UF.GRC_YLCV_Lab 09450.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/6d93132d-52ee-4d00-8534-d062ee604e7b___YLCV_NREC 2171.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/6dd16dab-9245-4a57-8a54-cf3694fe5918___YLCV_GCREC 2689.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/6e965ff5-c45a-474c-995f-85832f916e64___YLCV_NREC 2530.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/6eb13474-f3b6-4a3b-ab7e-917dc9b896b5___YLCV_GCREC 2624.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/6edbefd9-9755-456a-8ba9-dd7a9c467cc3___YLCV_GCREC 2533.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/6edd2832-4dcf-45c0-8895-c789e056f086___UF.GRC_YLCV_Lab 03249.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/6eea288a-b8e5-4841-a305-f9f234ba48ba___UF.GRC_YLCV_Lab 08484.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/6fb75150-5ad0-494c-961c-4a32c95d6acd___UF.GRC_YLCV_Lab 03259.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/70734df3-e201-4660-bdc7-8728f3a47c0f___UF.GRC_YLCV_Lab 02596.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/70a033df-505a-4bce-bde0-04141df30e43___UF.GRC_YLCV_Lab 02706.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/70c2a7a6-11c3-4d2e-8222-be60e6d60383___YLCV_GCREC 2608.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/7162cc3f-21ca-4196-b967-10376a4940d9___YLCV_GCREC 2844.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/71854615-7918-4b3a-bb7d-16c8039bf21c___YLCV_GCREC 5473.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/72003229-f8aa-4e84-b62e-3fde4a1651ed___UF.GRC_YLCV_Lab 02963.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/7216b367-1645-4eb6-b4ae-5ed5f18232a8___UF.GRC_YLCV_Lab 02535.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/72438b76-1114-43ae-a402-c2a84763d776___YLCV_GCREC 2301.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/7320e046-1550-4476-978b-508522cc8b72___YLCV_NREC 2526.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/733f48d1-096c-4c87-b23c-8fa009241f09___UF.GRC_YLCV_Lab 01384.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/735de814-ec86-4a2e-b523-e5d5542aff2b___YLCV_GCREC 2490.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/73bc88df-89f1-4dbf-a3ae-5b74775977a8___YLCV_GCREC 2015.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/743d6eb8-a7c4-4632-95f0-8ca346e6de2b___YLCV_GCREC 1975.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/74511db1-33bc-4c6c-8974-2e429535bd80___YLCV_GCREC 5132.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/74b42d7f-309f-4473-b476-da57b293e601___YLCV_NREC 2773.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/74d7b267-cc8e-4cfe-be97-1fd5165c76a4___YLCV_GCREC 2748.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/74d8054e-3b06-4410-a867-25a32a4672a9___YLCV_GCREC 2371.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/751c6198-2c36-42c9-b233-b45b5e147d5b___YLCV_GCREC 5209.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/75dd9b0d-dc4d-459a-a209-e94bdaecdc7c___YLCV_NREC 2302.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/75ffc4e4-e18f-47ee-8224-6d2aa808d2ee___UF.GRC_YLCV_Lab 01537.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/76443de0-d29e-43f8-a521-8a556e85e871___UF.GRC_YLCV_Lab 09339.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/76762a24-0c95-40b2-b861-fc743293fb7d___UF.GRC_YLCV_Lab 02094.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/76bc3125-07e1-40f7-9a88-e3fa2153569b___UF.GRC_YLCV_Lab 03061.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/7774d595-bce2-4ec0-8a10-85ba887029fa___YLCV_NREC 2390.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/77cf283f-12dc-42d8-9fc4-71f084523007___UF.GRC_YLCV_Lab 09599.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/77e40a6c-457a-4afa-9151-92c49511cb45___UF.GRC_YLCV_Lab 09576.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/77eaf955-9ae7-4dc7-8fca-5746faa341d2___YLCV_GCREC 5196.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/780812ad-50f2-41b2-96ca-d3af691e970c___YLCV_NREC 0233.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/78522b1b-254b-4ffc-95c8-cb3240f5d8d6___YLCV_NREC 2360.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/78d7cbe2-8f58-4bd4-a2e3-cd89ce41f384___YLCV_GCREC 5125.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/78d88883-2b65-4915-abe0-d08a34068bc2___YLCV_NREC 2473.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/79032fad-7cb4-47e8-8b5d-c15f61d3f66b___YLCV_GCREC 2231.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/79586add-4eda-40ea-b500-c81030daa0d1___YLCV_GCREC 5123.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/7968cd62-7006-4eb4-b2d8-66275168a0a4___UF.GRC_YLCV_Lab 02893.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/7a0706ca-a443-4491-bb4b-41d926af55b0___YLCV_NREC 2143.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/7a26d2bb-63e3-4a2f-916d-bd587156c1af___YLCV_NREC 2295.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/7a6efe87-43f0-4c74-a7f8-3ac126c863e7___YLCV_GCREC 2330.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/7a8c7fa6-1dee-478c-a395-4c15ff82f44c___UF.GRC_YLCV_Lab 02783.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/7ac74262-4823-4304-9ba6-9741477e168c___UF.GRC_YLCV_Lab 02669.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/7added13-bd04-4fe3-b1a8-33d3446e70da___YLCV_GCREC 2889.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/7ae4111b-ccb5-4367-8262-72eca8f50f23___YLCV_GCREC 2500.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/7afa9b87-872b-4675-88d0-e36ad6cc017d___YLCV_GCREC 2864.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/7b24a9ab-672a-40d9-8ff1-1ae9a932070f___UF.GRC_YLCV_Lab 02216.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/7bd5f0ae-4a05-4d77-93e2-831baf851726___UF.GRC_YLCV_Lab 08476.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/7c036479-9d89-40bc-8107-182c35aa5309___UF.GRC_YLCV_Lab 01600.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/7c21fc98-1815-4b72-a6ac-378ad446a3e7___UF.GRC_YLCV_Lab 03000.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/7c2eeadd-b0fe-4064-a6ee-7c33159396aa___YLCV_GCREC 5355.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/7c8981a1-fcac-441b-9f68-03e275441eb6___UF.GRC_YLCV_Lab 02853.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/7cc7a1c7-b3f4-470c-ba6b-e3d427fb3683___UF.GRC_YLCV_Lab 09464.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/7ceecafc-d328-4410-a9e0-5978860e71d5___UF.GRC_YLCV_Lab 01607.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/7d3f2e55-9e2c-47df-91ef-57f108852779___UF.GRC_YLCV_Lab 02591.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/7e4339e1-adca-46a5-b401-be78049f3652___UF.GRC_YLCV_Lab 02408.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/7e7d8005-eb91-4789-8b12-e801530ded45___YLCV_GCREC 2224.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/7f54ac2c-da47-4b56-9dc3-ae002c887d9e___UF.GRC_YLCV_Lab 01964.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/7f5c515a-96f5-46a8-8931-6b2bb680c91e___YLCV_GCREC 5289.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/804a253d-c997-4cf1-afba-7c78513b8f38___UF.GRC_YLCV_Lab 01694.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/80dd36a8-5ce2-47eb-9d19-508ce9d72efe___YLCV_NREC 2447.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/81018ae7-ef98-4b5e-b957-77f11caaf1e1___YLCV_GCREC 2321.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/8131b829-6d50-4c6a-934f-1287650a3d2a___UF.GRC_YLCV_Lab 02456.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/815de166-0707-4508-883f-25150e9be9a1___YLCV_GCREC 2551.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/81c2cdcc-9254-45b3-8d53-6a928179a925___YLCV_NREC 2991.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/821c7b6e-0e43-4ae4-b597-2683fbe14cf5___UF.GRC_YLCV_Lab 02034.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/82c21b38-9e24-4447-8f91-318d04cb67e8___YLCV_NREC 2540.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/82c706b4-04f5-48bf-b509-8e7a890d0950___YLCV_GCREC 2370.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/835e777e-4ff4-40cb-ba1b-86c301348028___YLCV_GCREC 2581.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/838e04d0-c452-4ae6-8d6f-32bb4b2fe3c2___UF.GRC_YLCV_Lab 02861.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/8402962c-0932-4399-8a60-171197bbb469___YLCV_GCREC 2805.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/8519e2d2-15b3-4d42-b22f-c5f67259d188___UF.GRC_YLCV_Lab 01573.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/862690af-0d59-4fbe-b92d-3d8bd94e930a___UF.GRC_YLCV_Lab 03083.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/86665379-33ec-44c1-96c2-8de18bba4ba9___UF.GRC_YLCV_Lab 09367.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/866e6b3e-f9a1-465d-b84f-c6f1673fa590___UF.GRC_YLCV_Lab 09601.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/86ac31fc-a8e8-4935-8276-e80d4946d77a___YLCV_GCREC 2214.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/86b990c2-8a73-4c59-82e7-e89c72e1c73c___YLCV_GCREC 2663.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/87198a20-061e-4a54-b17c-452271a259e3___UF.GRC_YLCV_Lab 01327.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/87cea921-e038-4cd2-a14e-31a45ae2560d___UF.GRC_YLCV_Lab 03298.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/87f03c98-0901-4f4d-8a31-41c9260ff9b1___UF.GRC_YLCV_Lab 02658.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/87f071a9-9857-437e-8eb3-b699eb945ad3___UF.GRC_YLCV_Lab 09406.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/8831754b-2520-428f-90ac-30821826391f___UF.GRC_YLCV_Lab 09460.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/88614302-e6d2-4327-a4fb-a3db9c9ea72e___YLCV_NREC 2861.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/8866e55e-6ec1-4767-8de3-0e3a37f369f2___UF.GRC_YLCV_Lab 01342.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/8875d73f-ac18-48e4-80a5-41e115868839___YLCV_GCREC 2587.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/8a35cdb7-2e81-400e-97b3-975c4c904167___YLCV_GCREC 5270.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/8a3f2abe-86f3-49ab-a53b-ca83f59383db___UF.GRC_YLCV_Lab 03339.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/8b16cc37-30cc-4685-a5fd-6259d200451a___YLCV_NREC 2270.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/8b88ee8f-8d21-4d9c-a518-8dc9b616c8b2___UF.GRC_YLCV_Lab 03175.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/8bdf9538-07f2-4f00-ae55-bb70297de085___YLCV_NREC 2017.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/8c1234b1-6565-467e-aab8-200f135f7f09___UF.GRC_YLCV_Lab 03148.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/8c179530-6991-422e-a933-da6d727aac82___UF.GRC_YLCV_Lab 01466.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/8c9bed1b-3a4c-47d0-bd84-1e3ce8d09344___UF.GRC_YLCV_Lab 03065.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/8ca1a93a-09d4-4c7e-a898-e8967eb7e908___YLCV_GCREC 2265.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/8ccc4c8f-190f-4fe6-bf42-c5beb8ce802c___YLCV_NREC 2121.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/8cec28f2-470f-4726-b080-50b68f408ee0___UF.GRC_YLCV_Lab 01796.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/8cf12f2f-30db-4019-9efd-6eabed9713f7___YLCV_NREC 2280.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/8d2444a6-3b9a-4496-9e3d-eb033137d7f7___YLCV_GCREC 2665.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/8d78e873-95c2-453b-896e-5656f67d3391___UF.GRC_YLCV_Lab 02027.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/8e0fd42c-7e1e-42f8-b77d-07bae2b9ec85___YLCV_GCREC 5395.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/8e5b411c-8867-4c6d-bf02-fec00e9941d6___UF.GRC_YLCV_Lab 01682.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/8e8933e9-9e30-4d9a-8514-4f9ad71e51cd___UF.GRC_YLCV_Lab 01685.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/8eaba3d6-ecf5-4a13-8e50-cb664a33ab23___UF.GRC_YLCV_Lab 02881.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/8ee46b79-b332-4c4b-9eec-2cf2791186c0___YLCV_GCREC 2677.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/8f59d63d-7faf-413c-a43c-9d3aee02b1cf___UF.GRC_YLCV_Lab 02106.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/8f7ac9bf-9c84-4ea4-9360-6d357776c69c___UF.GRC_YLCV_Lab 02179.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/8f8c176f-323a-4f4c-9418-469ebff37d20___UF.GRC_YLCV_Lab 02140.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/8fdac6b6-6ed8-436b-8d83-7e213fa39827___UF.GRC_YLCV_Lab 03186.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/8fe031ce-0d22-4e8c-92ae-985e9989cb83___YLCV_GCREC 2505.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/8ff049ad-02ec-46e5-a5e9-d093c4563be0___UF.GRC_YLCV_Lab 02569.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/8ffa2a6d-2a1b-4c7c-9bc9-8b968518e2d1___YLCV_GCREC 2815.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/90af7dd7-9500-453f-8108-53628441890b___YLCV_GCREC 1920.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/90c510c8-2026-4087-9243-2775a6109ff9___YLCV_NREC 2409.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/91ebbbe6-03e0-4757-afe4-6e7bfadda891___UF.GRC_YLCV_Lab 02037.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/9225bddd-f4c3-4b56-82fd-3526fa3147bb___YLCV_NREC 2085.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/928083f9-28e8-4e9d-9437-bd6d72b851e1___UF.GRC_YLCV_Lab 02787.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/92993d98-9fe1-4299-98c9-c1cb1caa7a67___UF.GRC_YLCV_Lab 09346.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/92d0f96f-83ac-4852-b3b5-973abbd9f3e9___YLCV_GCREC 2823.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/9301f7ab-f6c1-4df6-9ff8-fb8d555123b8___UF.GRC_YLCV_Lab 01963.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/9303b8a2-2e6b-46c0-b650-4bf4016b7a2e___YLCV_GCREC 2085.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/9314c285-23d4-4107-b9a5-67d2d2a32921___YLCV_GCREC 2600.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/934aa0c1-2c0a-4ec5-a673-f84177c79d09___YLCV_GCREC 5371.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/93e19f72-2fbe-4b31-86f4-fe8ee7acc57d___UF.GRC_YLCV_Lab 01643.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/95b2ee1b-bad2-40b9-8d17-190828ebdfde___YLCV_NREC 2283.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/95d55a85-290c-4883-855d-40a125de4c80___YLCV_NREC 0092.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/9635519a-297b-4635-94fe-7fc2fbf21705___YLCV_GCREC 2576.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/YellowLeaf_Curl_Virus/96ca8f92-166e-48df-9cab-53b6ff542b79___UF.GRC_YLCV_Lab 03187.JPG,YellowLeaf_Curl_Virus,2
+/content/drive/MyDrive/CV/dataset/val/healthy/042d59c2-2fd8-45c2-91bb-c0a05dd07f30___RS_HL 0257.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/04c78dad-c1eb-4a1b-bfeb-da4c7cc528e1___RS_HL 9688.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/050e7bff-2f2d-4c92-9422-05ce93f1d5a9___RS_HL 0097.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/065cd824-d515-49f6-a68a-c1b6dd313472___RS_HL 0139.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/06639369-2e38-48cc-a27a-5b90388d227e___RS_HL 0389.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/0764ce38-ecb9-4046-88d9-c8f176c6ee8b___GH_HL Leaf 423.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/0782c04b-2a91-4e10-89a7-cf3d3e48be82___RS_HL 9645.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/0894c925-d193-412f-961d-d188b57ee337___GH_HL Leaf 393.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/0920bfd6-6c70-432b-be33-cccb6abb0f31___GH_HL Leaf 181.1.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/0a0d6a11-ddd6-4dac-8469-d5f65af5afca___RS_HL 0555.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/0d3691ab-5413-4313-870e-9e5d2faf33ea___RS_HL 9958.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/0d789240-9714-4378-8b63-4afb12ddfa44___RS_HL 9735.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/0d91db63-181b-4c3a-939b-181cc812e466___RS_HL 0308.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/0de569a8-21c5-4d22-b9c9-ba0ef0f2b614___RS_HL 0314.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/0eb4ba9a-6626-4e46-b561-c226b495073d___RS_HL 9862.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/0f809e80-ee2b-4ad4-9a80-50d789298d48___GH_HL Leaf 192.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/11fe6fbc-a1a9-4cc4-ba85-a6864a4e9bae___GH_HL Leaf 280.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/125ff07a-87f1-4953-9ded-8f9e5adb7b1b___RS_HL 0470.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/13053341-b112-411c-bc76-8cadbcb4eded___GH_HL Leaf 223.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/136a69f1-2cf0-4fc6-bf40-8ed63bd3db94___RS_HL 9624.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/13a4fd9b-13eb-4fcd-af7d-b6c76fbbf456___GH_HL Leaf 272.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/13e0d497-f5fc-4fb9-9e9a-cb77bc330730___RS_HL 0397.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/16c1b712-2c55-4a8d-899f-cc0e725d4835___GH_HL Leaf 314.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/17b48132-9a1d-45e5-9000-30ebd7248273___RS_HL 0385.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/1a393116-cbd1-4e3f-acfc-563e96ae1e80___RS_HL 0268.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/1d024f2a-0ceb-4560-81fc-1114e6341f02___RS_HL 0431.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/1d598eb4-b055-4c4c-8b7e-b60990804957___RS_HL 9838.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/1dfb5aeb-8d00-4672-9755-5da982758453___RS_HL 9987.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/1dffd343-4634-4b33-95f4-eecc755aec8f___GH_HL Leaf 168.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/1f763a4e-3f17-44c1-be1b-a8752d2b93a1___RS_HL 9830.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/20024ad7-62d7-492c-aa7c-5a139a9a2aff___GH_HL Leaf 416.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/20d3ba25-f161-4ede-a42a-7a3020ebda3d___RS_HL 0124.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/23a4712e-8805-43f7-9ae4-655d1c4799b0___RS_HL 0619.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/23ffcd05-2b2a-48d2-a694-5c292e910b66___RS_HL 9842.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/25080b1c-6c0f-4b11-bb31-b5cfb2429395___GH_HL Leaf 238.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/256a65aa-690c-4e03-b426-21e84bb9b6dd___GH_HL Leaf 477.1.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/27ed6a35-3fb7-4d57-9cb4-b368c1f4f6eb___RS_HL 9665.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/285e95b9-fe77-43a7-85ab-5ef37ae162f8___RS_HL 0047.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/29265f8d-86ff-4de1-b1ad-e33a64b189dc___RS_HL 0264.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/2b91175f-d3de-47dd-b386-5fd639e8b531___RS_HL 0216.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/2bce59d3-c971-46da-8bb5-bc36b712e208___GH_HL Leaf 257.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/3200dbab-2da4-49c9-bd74-34d67e763b22___RS_HL 0562.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/34a5aaa7-f50f-4b19-8a92-78ad697f6865___GH_HL Leaf 407.1.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/362f6311-e53a-4c35-80b4-8f865b662bd0___RS_HL 9649.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/377ffc94-d068-4ba0-80cc-dea49edf094d___RS_HL 0367.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/37aad83b-7ff8-4b35-b3ed-fb8e0f54910b___GH_HL Leaf 342.1.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/38f54137-3e02-48fb-9fc1-0d444a13c40b___GH_HL Leaf 456.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/399da916-8ffa-40f0-a7a6-62442f14067b___RS_HL 0088.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/3b0677fb-ff25-4871-aa89-37f756e917af___GH_HL Leaf 253.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/3be7ae8c-bacb-4877-b6b5-c2251d22b431___GH_HL Leaf 497.1.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/3df51cfe-b583-40ae-a2d5-d4928a8a763f___RS_HL 9765.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/3eaf72d6-be20-4929-b6dc-58f6c9edf2bd___RS_HL 0031.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/3eb7e000-68e2-4cf3-b202-2aaf17642cb4___RS_HL 9957.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/3f730857-e87b-4de0-bcbb-fdf0314e2250___GH_HL Leaf 245.1.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/4022afd0-756b-4f07-9a8a-3cdf425d0cc5___RS_HL 0134.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/40dfa3e5-617d-46bb-9eab-eb2b114e5367___RS_HL 0079.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/416458ca-7db6-4383-ae0b-21ae2860af1b___RS_HL 0535.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/4184da3b-ccbd-4880-9aa7-dbb868a7f571___GH_HL Leaf 355.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/42e607e9-916c-470c-a17d-ec5348a40ded___RS_HL 0373.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/45b3e6ad-f79c-4132-9bb5-9e9d26cbdfce___RS_HL 9908.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/460909e5-dd8c-48f9-9a06-6daa2b3d0529___RS_HL 0341.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/461aa22a-be16-4dc8-9d60-45c38eabe504___RS_HL 0501.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/466832f0-bff9-4766-a597-dc89880a7b4a___RS_HL 0111.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/4715a717-ed38-43b7-9ee1-4f83fba00743___RS_HL 0005.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/483659eb-d6da-4eb6-9106-cfe4240becbe___RS_HL 9895.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/48b9e2a8-d24f-4dda-a3b9-a8705a6ffd4c___RS_HL 9990.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/48cd0ef9-4e84-4f83-ad6b-e8ddc3eb6b3b___GH_HL Leaf 317.1.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/4916cbbb-a567-4263-a56d-521abadfb0b8___RS_HL 0480.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/4935c405-26c7-4e53-b6cf-0f4dcc798504___RS_HL 9730.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/495559bd-76e2-4c7a-935c-3ca1b4cf4b7b___GH_HL Leaf 180.1.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/4b8df56a-6124-4e5c-a1b7-8e771a472813___RS_HL 0520.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/4b8f6f0d-ed84-49ae-a92e-6cf049a42207___RS_HL 9652.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/4b9bc37a-a9af-4e3f-a4e4-1e6cfb79c673___RS_HL 0262.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/4c0fe9e1-bbe4-40dc-8a83-97a437693a23___RS_HL 0228.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/4d374048-0e08-4a09-ae57-e83f8e64082b___RS_HL 0564.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/4de74e9a-e32a-467a-b6fd-512a16a09d22___GH_HL Leaf 329.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/4e4e685a-6f47-44df-957c-b667a1a5034e___RS_HL 9938.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/4ec0267c-4606-47bf-ad7e-5e087dc4aef1___RS_HL 0187.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/50c710e2-ad13-4b3a-a829-65d51ead21ff___GH_HL Leaf 269.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/534e4d2c-e2cc-4448-9181-95b9af3ff56a___RS_HL 0198.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/56f87203-cfd4-4e2c-b2d7-df17983d8267___GH_HL Leaf 374.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/59cc3bec-c66b-43f7-a445-42af2d7be410___GH_HL Leaf 476.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/5b2457f5-96d5-4bcd-8025-dc55e666f660___RS_HL 0605.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/5b7b9824-0cdd-4c67-9377-136a0615d784___RS_HL 0056.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/5f7d3261-84f4-4b85-b9e1-f15792638c2d___RS_HL 9676.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/6120d8df-66a3-45c1-ae2f-bb8065928df4___RS_HL 0420.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/622044a4-97d7-46a1-a702-2f586bb04a78___GH_HL Leaf 334.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/622ed31e-0067-460a-a025-fefea1669ce1___RS_HL 0587.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/6246e722-c34f-46cf-b670-0f403456cea1___RS_HL 9969.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/62c9e613-b9ae-4be2-9000-2bc800549baa___RS_HL 9625.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/630ae481-49e7-470c-ad05-177132a6648a___RS_HL 0178.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/64b5d77e-2b06-461d-94f9-5f15250a7e77___GH_HL Leaf 505.1.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/66fb848b-843a-469d-a2d2-80f0e0e7eda4___GH_HL Leaf 371.1.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/6883c31a-78b4-406a-9605-b6b31e0932cc___RS_HL 0037.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/6890c333-c7d2-4d50-8734-f70b61cef213___GH_HL Leaf 447.1.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/6a74d0a9-4a5e-4dc2-9e14-aeade8b0c3b2___GH_HL Leaf 400.1.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/6b9b1ad6-3e75-4378-ad97-7dc9b8fa084e___GH_HL Leaf 179.1.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/6d0a4eb6-2a48-4fd6-9bb5-df05eeeb05a8___GH_HL Leaf 316.2.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/6d4e6329-bb8c-417c-8d28-6241a22c0a86___GH_HL Leaf 411.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/6d7934cb-69fc-48fe-b493-a64b349a9094___RS_HL 9930.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/6e41f26a-5ce7-4fba-9fb5-e6a886b55f75___GH_HL Leaf 230.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/6f489b75-4fca-4aae-834d-409db790224b___GH_HL Leaf 205.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/717efedc-6fcb-4509-895f-369d82161acf___RS_HL 0184.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/7181181c-b571-4cf0-80c3-c52bd785ccf9___GH_HL Leaf 218.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/750a42ee-b73f-4137-934d-501b311a5528___GH_HL Leaf 330.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/787fe2db-da4f-4655-bbb7-6fd8025feffe___RS_HL 9795.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/7919a8c4-0eb1-477f-8534-fc8841245cf7___RS_HL 0538.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/798fdd0c-27d2-4e72-a359-bd00208e8b1a___GH_HL Leaf 207.1.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/79e298b2-32c5-40c6-abb7-67bb7f174751___GH_HL Leaf 391.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/79e38a3e-8170-44e3-a7ce-e00bbbcf24dc___GH_HL Leaf 460.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/7beda862-3964-4839-9d08-b9b3fa27b028___RS_HL 9952.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/7d1cbe82-bda7-498a-ac8f-f01a0e279940___RS_HL 9639.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/7d3cd4c9-2c10-422d-a5f2-474c5569649d___RS_HL 9686.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/7d76aa96-b29e-4a60-a3e7-bd489f5a79b2___GH_HL Leaf 176.3.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/80c566ba-6754-4abb-a61e-986b92cfc4fd___RS_HL 0436.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/81314c2b-1def-41c8-a6b4-1cd37d1e482a___RS_HL 0175.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/8140c767-937d-450c-8070-2936aeb73834___GH_HL Leaf 439.1.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/82a343d3-1a57-4190-b0d7-8e8c88e832a7___GH_HL Leaf 306.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/83781ea3-eaed-467a-9147-678002262295___RS_HL 0330.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/8379a9cc-775f-4e91-b880-09d9afb361ac___RS_HL 0596.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/85487c92-0a3d-4dd9-a8f9-6d7b7e1887e6___RS_HL 9789.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/85656232-738b-4a83-ab54-cfa6ecff99f1___RS_HL 0477.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/886c81aa-0494-4dd7-adc5-301af73df1f7___GH_HL Leaf 215.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/89aa561a-1ea7-4e24-a92b-47f3dedcecdb___RS_HL 0107.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/89ecd925-23ef-4bfe-8c55-cad05161aca2___GH_HL Leaf 236.1.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/8c43c178-69de-4e23-a075-1f0bdbf586db___RS_HL 0637.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/8c5dbb8f-90fb-4ec7-9563-11e54723687e___GH_HL Leaf 190.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/8cbf5a0d-8937-4f72-adf0-294fb7c947c1___RS_HL 0128.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/8cc11f24-0b79-4eda-8a09-9c776e0a9c1e___RS_HL 9728.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/8d78a34f-1777-4bd8-a925-795c57c11787___GH_HL Leaf 429.1.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/8ddc8178-4609-4267-bd55-028de3f759c8___RS_HL 0004.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/92482fe8-95b5-48b9-b32e-eadc3ab6ac59___RS_HL 9901.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/92c06519-cec4-4091-9ae1-5ea8b56c89cd___GH_HL Leaf 525.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/930bcd42-1c53-414c-94e5-8b270920ed68___RS_HL 0156.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/93e8763c-b124-48c4-bc46-df4d92625fa3___RS_HL 0261.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/9662364c-aaba-45e3-b907-10792d60578c___GH_HL Leaf 220.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/973c9431-f521-462d-82fa-442196087ca8___GH_HL Leaf 204.1.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/977bcf65-3e68-4be3-bb8a-4a860a6fef9d___RS_HL 9986.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/99330465-d609-4f9b-b1cf-da0410f6122c___RS_HL 0388.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/9a97f632-a6a4-4a7e-9a82-90167fdf8fff___GH_HL Leaf 181.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/9b5c0a85-5a16-4589-ae76-ef4247e78663___RS_HL 0281.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/9c3ad610-7677-4f3c-9646-88069e0c61cb___GH_HL Leaf 449.2.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/9d06e189-6e39-4fb9-853b-e2ce180469a5___RS_HL 0407.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/9f1704fc-28ae-4e27-a6f3-885811ea80e2___GH_HL Leaf 260.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/9fb8872e-e963-4d2c-9b16-62757705ca3f___RS_HL 0130.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/a1414092-da7c-4e7e-9b25-6fb76e07285b___RS_HL 0247.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/a20a5c58-38e3-4fe3-8bdb-1ce02169a6a3___RS_HL 0512.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/a2118ec3-8434-4e93-8a4a-aa93262dfa76___RS_HL 0551.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/a3ebf7f9-543d-4df9-a09f-013ef8dd7760___RS_HL 9662.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/a7abffa7-2c5e-4bc2-ab36-450ef1129f37___RS_HL 9856.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/a90b4d5b-86f9-48ae-9ede-ae3ac462f9bc___RS_HL 9872.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/a9108826-cab0-429d-9a81-c42b21ee2682___RS_HL 9874.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/a91df7a3-b064-4edb-8556-686598d0bdea___RS_HL 0317.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/a98d00cf-f048-44d7-b82b-3328a8e891b3___RS_HL 0585.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/aa0058b5-2857-40fd-8b40-24d728574aec___RS_HL 0415.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/abaaf21a-3c59-4a00-825e-2f05f045bbf9___RS_HL 0066.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/ac249839-fe21-45cd-9e09-f0023fa7ee3a___GH_HL Leaf 273.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/adeea527-67a9-4426-8b18-221fe085fe87___RS_HL 0008.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/af409ada-072e-4b27-ab15-5cd00116f82e___RS_HL 9824.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/afbedba8-4d3a-4816-9c55-bd666d262b59___RS_HL 9841.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/b0bf12cb-8868-4762-bd27-8cb3ebf69594___GH_HL Leaf 512.1.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/b485c91b-36c7-42be-9572-69327a0ece88___RS_HL 9678.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/b6714886-142d-44dd-9fda-f9481bb28fcb___RS_HL 9978.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/b89c8996-9a04-45fe-a517-97e23227881c___GH_HL Leaf 430.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/bad3b814-de59-4c37-8f47-00ed153f7e4f___RS_HL 0214.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/bc3ca9e1-86c1-4945-9993-c61a38a942ed___GH_HL Leaf 294.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/beaa693e-fa0d-4bde-943a-0a834f251301___RS_HL 0290.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/c09f9b09-e43d-46bd-96d7-bb1162b4bb52___RS_HL 9644.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/c0c7cd05-de91-47b6-9702-823e34e7d332___RS_HL 0505.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/c1413079-dfb4-41c5-b129-bc5b6b419e0e___RS_HL 0133.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/c25ca040-07f4-4882-b5c9-e8083ba994a2___GH_HL Leaf 417.1.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/c3dcca18-f12f-4a4d-a90c-563ded6c7df8___RS_HL 9691.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/c52610f1-e253-49ac-bb6f-af3dc1d9c396___GH_HL Leaf 363.1.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/c56b4a9c-dd6f-48ac-ac94-c4fbf6194031___GH_HL Leaf 364.1.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/c586e5df-8410-4690-aee8-25e9ef9df9a5___GH_HL Leaf 178.1.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/c7db2891-1bfa-4047-8864-66be6cc9e185___RS_HL 0162.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/c8b14af0-f81f-474d-8fa9-aa3f5b05c618___RS_HL 0532.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/c9f92d4b-9d9c-4932-ba1b-bc290987c154___RS_HL 0350.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/ca553e23-a738-485a-95e6-3b578477d3f4___RS_HL 9854.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/caa60224-1c60-455e-8b7c-e73626af84c1___GH_HL Leaf 214.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/caca1578-600e-423f-8307-65c11fc27942___RS_HL 0374.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/cbb3f283-baaa-40b1-9e46-3414d8f74f99___GH_HL Leaf 231.1.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/cbd86fc5-7f88-4984-a1ed-445de8b76573___GH_HL Leaf 354.1.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/ccfba9c3-41a5-40de-b71a-980bc3336ae7___GH_HL Leaf 522.2.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/cdfeddb6-3064-48dc-bac9-05441dedc74e___RS_HL 0323.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/ceb2bf82-b22d-43bb-9a32-cac11e19febd___RS_HL 0406.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/d02f79d7-34a8-4313-924b-ca75fa38b1fb___RS_HL 9655.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/d030352a-d87f-4ee2-a619-bc68d9896004___GH_HL Leaf 197.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/d06e33fb-58bf-440f-9dbc-a1ceec9abaea___GH_HL Leaf 383.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/d2f0f578-3b6e-433c-962a-8c81f79eab7a___RS_HL 9623.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/d442075f-73bb-47a0-9545-9b36bca9300b___GH_HL Leaf 210.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/d4c014c8-81db-47ce-8a1a-277ef1159a3d___RS_HL 0211.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/d5beabbd-afc7-41c5-aa06-ec45c32e751e___GH_HL Leaf 289.1.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/d5ccbb2a-258c-4963-bdd6-d7eb22f351a5___RS_HL 9946.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/d6128bab-2cc4-4005-9184-2b7303773682___RS_HL 9828.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/d7c5d552-e2c6-4868-ac4a-4ffa33151632___RS_HL 0502.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/d80d474d-1d8a-4381-8960-db93b611b5c8___GH_HL Leaf 390.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/da1015eb-5c8e-436d-b367-d1f98a034e44___RS_HL 0382.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/daa4e664-5ec5-4349-b8de-0673cdfe374d___GH_HL Leaf 168.1.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/de56bf63-8f55-426a-a2a1-8a8a635ad5a0___RS_HL 9747.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/df99e31e-11ab-49be-bd51-d1fda2667c76___GH_HL Leaf 458.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/e0587774-746c-41af-a876-b3d083756a23___RS_HL 0588.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/e110eaa3-3f80-477f-ad86-18b7e308b764___RS_HL 0349.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/e1d129fb-f5ae-41e1-b097-445d792e4beb___RS_HL 0473.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/e25bc3a8-dd00-4c02-9f4e-81e6cf682729___RS_HL 0101.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/e336eb74-a19d-4461-871e-3124c5e0d047___RS_HL 0558.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/e3b5600f-9c88-4060-826f-aa7c972c9325___GH_HL Leaf 291.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/e59d735a-0312-46e4-943a-2262ea2cd502___RS_HL 0428.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/e66387bd-ae03-4ba8-af0c-533900daa36c___RS_HL 0289.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/e6782c6b-bf00-492d-a30e-966fd641b823___RS_HL 9939.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/e67fdf04-f0a3-4351-b65d-a1b7362fc032___GH_HL Leaf 304.1.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/e7ab090d-f32a-46c2-b3a2-919d76437fee___RS_HL 0207.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/e7ca6603-d0c1-4bad-bc53-a45cfebb156f___GH_HL Leaf 355.1.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/e8d0f3de-312b-4316-aca4-798a51ebd423___GH_HL Leaf 520.1.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/e95c13d4-9ba6-452e-b53c-03007f575401___GH_HL Leaf 320.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/eb31ccad-06e1-43ab-90f9-e86f4cba2fed___RS_HL 0552.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/ec1bfc74-550b-4478-95c0-d60c1379957a___RS_HL 9879.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/ec3bb20a-2c19-421b-a4ce-7c06f18914eb___RS_HL 0609.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/edfbcb80-5821-4c6e-a464-79f119de35ae___RS_HL 9903.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/ef492a6d-0db4-4fb5-b513-12a262215f00___RS_HL 9638.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/ef55e589-0ad8-4602-be35-e0ee6aa33b8a___GH_HL Leaf 300.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/f0068af9-0c54-4a08-8cf1-3890bead99d0___RS_HL 0336.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/f1b0ad53-6f2a-44bd-9f58-da590c9cdde2___GH_HL Leaf 371.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/f3231f5f-c6cf-4a37-a3da-5d6e7a8afb0e___RS_HL 0450.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/f32a71f9-5468-4169-aa2f-e895f070bfc7___RS_HL 9997.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/f4d64977-50b0-4967-87cf-95f282f287d4___RS_HL 0554.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/f5252d99-6752-457b-b430-965d545d3b41___RS_HL 0412.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/f7d044c0-6900-4624-9c20-fa27aa0911ff___GH_HL Leaf 275.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/f7df2411-8e50-46e1-b43a-cca357bee1af___GH_HL Leaf 521.1.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/f81def4f-22a7-4036-bfab-51b245f4a2ab___RS_HL 0055.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/fb123526-11fd-4d0d-96cc-3423da0b61a2___RS_HL 9756.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/fc5c5672-d1e5-4374-bd99-608d95609a7f___RS_HL 0474.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/fccb58ad-1644-403e-851b-dd3a27c893ef___GH_HL Leaf 387.1.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/fda63621-b0eb-4938-8ec4-8afffc81ddd6___GH_HL Leaf 268.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/fe0e2d7f-3aee-4c36-8fe1-661b4eacc994___GH_HL Leaf 507.1.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/feda8fd2-1d18-443e-a7d9-15bd6bf8ce66___RS_HL 0332.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/ff774aec-2504-4d11-8a61-2fd74c689a6f___RS_HL 9904.JPG,healthy,3
+/content/drive/MyDrive/CV/dataset/val/healthy/ff8b36d5-feaf-4d2d-8126-18670a312657___RS_HL 0229.JPG,healthy,3
