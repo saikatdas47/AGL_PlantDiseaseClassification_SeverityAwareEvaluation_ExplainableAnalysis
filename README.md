@@ -4,7 +4,7 @@ This repository presents a lightweight deep learning framework for tomato leaf d
 
 The project goes beyond standard accuracy-based evaluation by examining how model behavior changes across different disease severity levels and how attention mechanisms affect both predictive performance and interpretability.
 
-<img width="250" height="" alt="overall" src="https://github.com/user-attachments/assets/cb766e31-14f9-4de0-bac3-3b9a0f85dae9" />
+<img width="500" height="" alt="Screenshot 2026-03-31 at 9 07 32 PM" src="https://github.com/user-attachments/assets/931e0c47-5350-4c08-ad8f-eb24cdeb6cb7" />
 
 
 ## Overview
